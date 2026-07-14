@@ -1,0 +1,13 @@
+service_id,service_name,category,price,duration_minutes,estimated_supply_cost
+1,Classic Manicure,Manicure,28.0,35,5.5
+2,Gel Manicure,Manicure,45.0,50,8.5
+3,Acrylic Full Set,Acrylic,65.0,75,14.0
+4,Acrylic Fill,Acrylic,48.0,60,10.0
+5,Classic Pedicure,Pedicure,38.0,45,7.5
+6,Deluxe Pedicure,Pedicure,55.0,60,11.0
+7,Hollywood Luxury Pedicure,Pedicure,72.0,75,15.0
+8,Builder Gel,Manicure,58.0,65,12.0
+9,Nail Art,Add-on,15.0,20,3.0
+10,Gel Removal,Add-on,12.0,15,2.0
+11,Polish Change,Manicure,22.0,25,4.0
+12,French Tip,Add-on,10.0,15,1.5

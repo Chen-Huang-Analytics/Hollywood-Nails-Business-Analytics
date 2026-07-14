@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_cost,starting_stock,reorder_level,vendor_id
+1,Gel Polish - Neutral,Polish,8.5,18,6,1
+2,Gel Polish - Color,Polish,8.5,24,8,1
+3,Acrylic Powder,Acrylic,18.0,12,4,1
+4,Monomer Liquid,Acrylic,22.0,10,3,1
+5,Builder Gel,Gel,16.0,12,4,1
+6,Base Coat,Polish,7.0,12,4,1
+7,Top Coat,Polish,7.0,12,4,1
+8,Nail Tips,Acrylic,12.0,10,3,2
+9,Files and Buffers,Disposable,0.8,250,75,3
+10,Gloves,Sanitation,9.0,20,6,3
+11,Disinfectant,Sanitation,14.0,10,3,3
+12,Pedicure Liners,Disposable,11.0,25,8,3
+13,Cuticle Oil,Treatment,5.5,18,6,1
+14,Lotion,Treatment,12.0,12,4,1
+15,Nail Art Accessories,Add-on,15.0,10,3,1

@@ -1,0 +1,1251 @@
+customer_id,first_name,last_name,email,phone,join_date,referral_source,status
+1,Daniel,Brown,customer1@example.com,775-555-0001,2023-09-21,Friend/Family,Active
+2,Amanda,Brown,customer2@example.com,775-555-0002,2024-01-26,Friend/Family,Active
+3,Ashley,Miller,customer3@example.com,775-555-0003,2024-11-19,Friend/Family,Active
+4,Michelle,Lee,customer4@example.com,775-555-0004,2025-12-07,Walk-in,Active
+5,Alex,Smith,customer5@example.com,775-555-0005,2024-06-22,Friend/Family,Active
+6,Amanda,Miller,customer6@example.com,775-555-0006,2025-06-20,Walk-in,Active
+7,Lauren,Anderson,customer7@example.com,775-555-0007,2025-01-23,Instagram,Active
+8,Mia,Brown,customer8@example.com,775-555-0008,2025-09-14,Walk-in,Active
+9,Daniel,Thompson,customer9@example.com,775-555-0009,2025-08-10,Friend/Family,Active
+10,Jessica,Davis,customer10@example.com,775-555-0010,2025-03-15,Existing Customer,Inactive
+11,Taylor,Brown,customer11@example.com,775-555-0011,2025-09-17,Walk-in,Active
+12,Lauren,Garcia,customer12@example.com,775-555-0012,2025-08-28,Google,Active
+13,James,Williams,customer13@example.com,775-555-0013,2024-07-16,Friend/Family,Active
+14,Emma,Thomas,customer14@example.com,775-555-0014,2025-02-03,Existing Customer,Active
+15,Mia,Davis,customer15@example.com,775-555-0015,2025-05-26,Instagram,Active
+16,Stephanie,Johnson,customer16@example.com,775-555-0016,2025-05-08,Google,Active
+17,Casey,Perez,customer17@example.com,775-555-0017,2025-05-06,Walk-in,Active
+18,Morgan,Moore,customer18@example.com,775-555-0018,2024-05-19,Walk-in,Active
+19,Mia,Lee,customer19@example.com,775-555-0019,2025-01-20,Friend/Family,Active
+20,Chloe,Thomas,customer20@example.com,775-555-0020,2025-08-11,Walk-in,Inactive
+21,Isabella,Jackson,customer21@example.com,775-555-0021,2024-02-03,Instagram,Inactive
+22,Amanda,Garcia,customer22@example.com,775-555-0022,2025-12-12,Friend/Family,Active
+23,Grace,Moore,customer23@example.com,775-555-0023,2024-12-27,Existing Customer,Inactive
+24,Emily,Brown,customer24@example.com,775-555-0024,2025-01-28,Instagram,Active
+25,Rachel,Taylor,customer25@example.com,775-555-0025,2024-06-19,Google,Inactive
+26,Morgan,Rodriguez,customer26@example.com,775-555-0026,2026-05-22,Instagram,Active
+27,Sarah,Martinez,customer27@example.com,775-555-0027,2026-06-05,Friend/Family,Active
+28,Chris,Garcia,customer28@example.com,775-555-0028,2023-08-02,Friend/Family,Active
+29,Sarah,Anderson,customer29@example.com,775-555-0029,2025-04-21,Walk-in,Active
+30,Chloe,Williams,customer30@example.com,775-555-0030,2024-01-23,Friend/Family,Active
+31,Chris,Lee,customer31@example.com,775-555-0031,2024-04-14,Walk-in,Active
+32,Mia,Garcia,customer32@example.com,775-555-0032,2025-01-24,Friend/Family,Active
+33,Michelle,Lee,customer33@example.com,775-555-0033,2024-09-15,Friend/Family,Active
+34,Michael,Anderson,customer34@example.com,775-555-0034,2026-01-14,Existing Customer,Active
+35,Stephanie,Davis,customer35@example.com,775-555-0035,2023-12-10,Google,Active
+36,Stephanie,Perez,customer36@example.com,775-555-0036,2024-10-25,Walk-in,Active
+37,Jessica,Davis,customer37@example.com,775-555-0037,2023-12-17,Existing Customer,Inactive
+38,Ashley,Martin,customer38@example.com,775-555-0038,2024-11-30,Walk-in,Active
+39,Mia,Jones,customer39@example.com,775-555-0039,2026-03-26,Walk-in,Active
+40,Olivia,Miller,customer40@example.com,775-555-0040,2024-02-10,Walk-in,Active
+41,Olivia,Taylor,customer41@example.com,775-555-0041,2026-03-14,Existing Customer,Active
+42,Daniel,Brown,customer42@example.com,775-555-0042,2023-12-03,Google,Active
+43,Taylor,Brown,customer43@example.com,775-555-0043,2024-12-22,Walk-in,Active
+44,Amanda,Taylor,customer44@example.com,775-555-0044,2024-08-10,Walk-in,Active
+45,Casey,Williams,customer45@example.com,775-555-0045,2026-01-24,Instagram,Inactive
+46,Sarah,Johnson,customer46@example.com,775-555-0046,2023-08-31,Existing Customer,Inactive
+47,Taylor,Davis,customer47@example.com,775-555-0047,2024-07-06,Google,Active
+48,Taylor,Thomas,customer48@example.com,775-555-0048,2023-11-29,Walk-in,Active
+49,Sophia,Rodriguez,customer49@example.com,775-555-0049,2026-02-17,Walk-in,Active
+50,David,Lee,customer50@example.com,775-555-0050,2026-04-23,Walk-in,Active
+51,Jessica,Perez,customer51@example.com,775-555-0051,2023-12-03,Friend/Family,Active
+52,Chloe,Jackson,customer52@example.com,775-555-0052,2026-05-26,Existing Customer,Active
+53,Jessica,Martin,customer53@example.com,775-555-0053,2024-01-12,Existing Customer,Active
+54,Ashley,Davis,customer54@example.com,775-555-0054,2025-11-04,Walk-in,Inactive
+55,Stephanie,Perez,customer55@example.com,775-555-0055,2023-10-21,Friend/Family,Active
+56,Chloe,Perez,customer56@example.com,775-555-0056,2026-07-06,Google,Active
+57,Michael,Wilson,customer57@example.com,775-555-0057,2024-12-01,Walk-in,Active
+58,Daniel,Martinez,customer58@example.com,775-555-0058,2026-02-22,Google,Active
+59,Ashley,Smith,customer59@example.com,775-555-0059,2026-02-24,Friend/Family,Active
+60,Sarah,Williams,customer60@example.com,775-555-0060,2024-10-10,Friend/Family,Active
+61,Lauren,Williams,customer61@example.com,775-555-0061,2024-12-13,Google,Active
+62,Jordan,Lee,customer62@example.com,775-555-0062,2025-04-11,Friend/Family,Inactive
+63,Daniel,Martin,customer63@example.com,775-555-0063,2023-08-17,Friend/Family,Active
+64,Casey,Brown,customer64@example.com,775-555-0064,2024-05-02,Walk-in,Inactive
+65,David,Lee,customer65@example.com,775-555-0065,2024-06-14,Walk-in,Active
+66,James,Wilson,customer66@example.com,775-555-0066,2024-09-20,Friend/Family,Inactive
+67,Isabella,Jackson,customer67@example.com,775-555-0067,2024-12-27,Existing Customer,Inactive
+68,Ashley,Taylor,customer68@example.com,775-555-0068,2025-02-17,Walk-in,Active
+69,Amanda,Rodriguez,customer69@example.com,775-555-0069,2024-06-26,Friend/Family,Active
+70,Olivia,Lee,customer70@example.com,775-555-0070,2023-08-20,Walk-in,Inactive
+71,James,Jones,customer71@example.com,775-555-0071,2023-10-13,Instagram,Active
+72,Amanda,Taylor,customer72@example.com,775-555-0072,2024-04-18,Walk-in,Active
+73,Casey,Johnson,customer73@example.com,775-555-0073,2025-08-02,Walk-in,Active
+74,Sarah,Anderson,customer74@example.com,775-555-0074,2025-11-10,Existing Customer,Active
+75,Casey,Davis,customer75@example.com,775-555-0075,2024-06-28,Existing Customer,Active
+76,Morgan,Taylor,customer76@example.com,775-555-0076,2023-09-20,Walk-in,Inactive
+77,Alex,Taylor,customer77@example.com,775-555-0077,2024-12-21,Walk-in,Active
+78,Sarah,Thomas,customer78@example.com,775-555-0078,2023-10-19,Existing Customer,Active
+79,Jordan,Moore,customer79@example.com,775-555-0079,2025-07-17,Google,Active
+80,Stephanie,Davis,customer80@example.com,775-555-0080,2023-09-18,Friend/Family,Active
+81,Nicole,Williams,customer81@example.com,775-555-0081,2025-02-22,Google,Active
+82,Michael,Lee,customer82@example.com,775-555-0082,2025-06-09,Existing Customer,Active
+83,Nicole,Garcia,customer83@example.com,775-555-0083,2025-01-25,Walk-in,Active
+84,Lauren,Wilson,customer84@example.com,775-555-0084,2026-01-10,Friend/Family,Active
+85,Sophia,Perez,customer85@example.com,775-555-0085,2024-08-24,Walk-in,Active
+86,Emily,Martin,customer86@example.com,775-555-0086,2024-09-07,Google,Active
+87,Michael,Wilson,customer87@example.com,775-555-0087,2025-05-04,Friend/Family,Active
+88,Morgan,Martinez,customer88@example.com,775-555-0088,2026-06-04,Google,Active
+89,Sophia,Martinez,customer89@example.com,775-555-0089,2024-04-17,Walk-in,Active
+90,Sophia,Garcia,customer90@example.com,775-555-0090,2025-04-08,Google,Inactive
+91,Rachel,Martinez,customer91@example.com,775-555-0091,2024-10-04,Google,Active
+92,Daniel,Wilson,customer92@example.com,775-555-0092,2026-03-10,Google,Active
+93,Isabella,Jackson,customer93@example.com,775-555-0093,2024-07-13,Friend/Family,Active
+94,Michael,Thompson,customer94@example.com,775-555-0094,2025-06-17,Walk-in,Inactive
+95,Stephanie,Martinez,customer95@example.com,775-555-0095,2024-11-03,Instagram,Active
+96,Jessica,Davis,customer96@example.com,775-555-0096,2026-03-31,Friend/Family,Active
+97,Emma,Taylor,customer97@example.com,775-555-0097,2024-09-02,Friend/Family,Active
+98,Sophia,Davis,customer98@example.com,775-555-0098,2024-05-29,Friend/Family,Active
+99,Chris,Brown,customer99@example.com,775-555-0099,2025-12-18,Walk-in,Active
+100,James,Martin,customer100@example.com,775-555-0100,2026-03-09,Walk-in,Active
+101,Taylor,Brown,customer101@example.com,775-555-0101,2026-02-20,Walk-in,Active
+102,Isabella,Lee,customer102@example.com,775-555-0102,2025-05-11,Existing Customer,Inactive
+103,Grace,Martin,customer103@example.com,775-555-0103,2025-12-21,Instagram,Active
+104,Morgan,Garcia,customer104@example.com,775-555-0104,2026-03-30,Google,Active
+105,Jordan,Rodriguez,customer105@example.com,775-555-0105,2026-07-03,Google,Active
+106,Emma,Williams,customer106@example.com,775-555-0106,2025-03-08,Walk-in,Active
+107,Morgan,Lee,customer107@example.com,775-555-0107,2024-01-13,Walk-in,Active
+108,James,Jones,customer108@example.com,775-555-0108,2024-10-12,Walk-in,Active
+109,Mia,Moore,customer109@example.com,775-555-0109,2025-11-29,Walk-in,Inactive
+110,Sophia,Perez,customer110@example.com,775-555-0110,2023-09-10,Existing Customer,Active
+111,Sophia,Jackson,customer111@example.com,775-555-0111,2023-08-13,Existing Customer,Active
+112,Sophia,Taylor,customer112@example.com,775-555-0112,2024-10-25,Google,Active
+113,Ava,Smith,customer113@example.com,775-555-0113,2025-10-05,Google,Active
+114,Sophia,Garcia,customer114@example.com,775-555-0114,2026-03-15,Existing Customer,Inactive
+115,Mia,Smith,customer115@example.com,775-555-0115,2025-10-15,Friend/Family,Active
+116,Ashley,Taylor,customer116@example.com,775-555-0116,2024-05-04,Existing Customer,Active
+117,Nicole,Thomas,customer117@example.com,775-555-0117,2025-06-01,Walk-in,Active
+118,Chris,Thomas,customer118@example.com,775-555-0118,2025-02-20,Instagram,Inactive
+119,Nicole,Williams,customer119@example.com,775-555-0119,2026-03-21,Walk-in,Active
+120,Lauren,Davis,customer120@example.com,775-555-0120,2023-12-19,Instagram,Active
+121,Chris,Smith,customer121@example.com,775-555-0121,2024-12-19,Walk-in,Active
+122,Amanda,Davis,customer122@example.com,775-555-0122,2024-04-15,Google,Active
+123,Michelle,Moore,customer123@example.com,775-555-0123,2025-01-06,Instagram,Active
+124,Grace,Brown,customer124@example.com,775-555-0124,2024-07-01,Existing Customer,Active
+125,Emily,Martinez,customer125@example.com,775-555-0125,2025-09-07,Google,Active
+126,Ashley,Perez,customer126@example.com,775-555-0126,2024-12-10,Walk-in,Active
+127,Taylor,Thompson,customer127@example.com,775-555-0127,2024-04-04,Instagram,Active
+128,Jessica,Anderson,customer128@example.com,775-555-0128,2025-12-25,Friend/Family,Active
+129,Daniel,Wilson,customer129@example.com,775-555-0129,2023-08-26,Instagram,Inactive
+130,Sarah,Taylor,customer130@example.com,775-555-0130,2025-08-11,Friend/Family,Inactive
+131,James,Jones,customer131@example.com,775-555-0131,2026-01-08,Walk-in,Active
+132,Daniel,Rodriguez,customer132@example.com,775-555-0132,2026-04-17,Google,Inactive
+133,Chloe,Rodriguez,customer133@example.com,775-555-0133,2025-05-22,Existing Customer,Inactive
+134,Ashley,Rodriguez,customer134@example.com,775-555-0134,2026-02-09,Walk-in,Active
+135,Grace,Thomas,customer135@example.com,775-555-0135,2025-06-19,Walk-in,Inactive
+136,Jennifer,Jackson,customer136@example.com,775-555-0136,2024-10-08,Google,Active
+137,Nicole,Thompson,customer137@example.com,775-555-0137,2025-02-16,Friend/Family,Active
+138,Michelle,Williams,customer138@example.com,775-555-0138,2024-12-07,Friend/Family,Active
+139,Chris,Davis,customer139@example.com,775-555-0139,2026-04-02,Friend/Family,Active
+140,Alex,Smith,customer140@example.com,775-555-0140,2024-02-07,Walk-in,Active
+141,Stephanie,Martinez,customer141@example.com,775-555-0141,2025-08-25,Google,Active
+142,Olivia,Lee,customer142@example.com,775-555-0142,2025-06-08,Google,Active
+143,Rachel,Rodriguez,customer143@example.com,775-555-0143,2024-11-15,Walk-in,Active
+144,Sarah,Lee,customer144@example.com,775-555-0144,2024-08-14,Walk-in,Active
+145,Nicole,Perez,customer145@example.com,775-555-0145,2026-07-10,Friend/Family,Inactive
+146,Jordan,Miller,customer146@example.com,775-555-0146,2025-03-29,Walk-in,Active
+147,Emily,Lee,customer147@example.com,775-555-0147,2024-04-16,Walk-in,Inactive
+148,Mia,Martinez,customer148@example.com,775-555-0148,2024-04-15,Friend/Family,Active
+149,Sarah,Smith,customer149@example.com,775-555-0149,2025-03-05,Google,Active
+150,Jennifer,Johnson,customer150@example.com,775-555-0150,2024-12-30,Existing Customer,Active
+151,Jordan,Williams,customer151@example.com,775-555-0151,2025-10-29,Google,Active
+152,Michael,Johnson,customer152@example.com,775-555-0152,2024-06-06,Walk-in,Active
+153,Rachel,Williams,customer153@example.com,775-555-0153,2024-12-21,Walk-in,Active
+154,Grace,Thompson,customer154@example.com,775-555-0154,2024-11-05,Instagram,Active
+155,Casey,Moore,customer155@example.com,775-555-0155,2025-03-31,Existing Customer,Inactive
+156,Rachel,Perez,customer156@example.com,775-555-0156,2023-12-02,Friend/Family,Active
+157,Chris,Miller,customer157@example.com,775-555-0157,2024-10-06,Walk-in,Active
+158,Stephanie,Garcia,customer158@example.com,775-555-0158,2024-01-01,Walk-in,Active
+159,James,Thompson,customer159@example.com,775-555-0159,2026-03-20,Walk-in,Active
+160,James,Martinez,customer160@example.com,775-555-0160,2026-02-15,Walk-in,Active
+161,Nicole,Perez,customer161@example.com,775-555-0161,2024-09-09,Google,Active
+162,Daniel,Jones,customer162@example.com,775-555-0162,2025-01-26,Instagram,Active
+163,Jennifer,Martinez,customer163@example.com,775-555-0163,2025-03-14,Google,Active
+164,Rachel,Thomas,customer164@example.com,775-555-0164,2025-02-08,Friend/Family,Active
+165,Ashley,Thompson,customer165@example.com,775-555-0165,2023-10-21,Existing Customer,Active
+166,Grace,Rodriguez,customer166@example.com,775-555-0166,2023-09-22,Walk-in,Inactive
+167,Jordan,Perez,customer167@example.com,775-555-0167,2023-09-12,Existing Customer,Active
+168,Nicole,Perez,customer168@example.com,775-555-0168,2023-10-22,Instagram,Active
+169,Isabella,Moore,customer169@example.com,775-555-0169,2025-02-20,Walk-in,Active
+170,Daniel,Jackson,customer170@example.com,775-555-0170,2024-02-03,Google,Active
+171,Megan,Brown,customer171@example.com,775-555-0171,2024-06-25,Google,Active
+172,Rachel,Thomas,customer172@example.com,775-555-0172,2023-10-15,Google,Active
+173,Megan,Brown,customer173@example.com,775-555-0173,2025-11-05,Existing Customer,Inactive
+174,Emily,Lee,customer174@example.com,775-555-0174,2026-03-04,Google,Active
+175,Lauren,Thompson,customer175@example.com,775-555-0175,2026-05-17,Friend/Family,Active
+176,Michelle,Rodriguez,customer176@example.com,775-555-0176,2024-04-25,Existing Customer,Active
+177,James,Jackson,customer177@example.com,775-555-0177,2024-04-05,Walk-in,Active
+178,Alex,Davis,customer178@example.com,775-555-0178,2024-06-20,Google,Active
+179,Olivia,Williams,customer179@example.com,775-555-0179,2024-11-03,Existing Customer,Inactive
+180,Emma,Brown,customer180@example.com,775-555-0180,2024-06-11,Google,Active
+181,Isabella,Rodriguez,customer181@example.com,775-555-0181,2025-11-28,Instagram,Inactive
+182,Stephanie,Moore,customer182@example.com,775-555-0182,2024-05-23,Google,Inactive
+183,Isabella,Jones,customer183@example.com,775-555-0183,2023-12-21,Walk-in,Active
+184,Olivia,Wilson,customer184@example.com,775-555-0184,2026-06-05,Walk-in,Active
+185,David,Martinez,customer185@example.com,775-555-0185,2026-04-29,Existing Customer,Active
+186,Ava,Anderson,customer186@example.com,775-555-0186,2025-06-11,Friend/Family,Active
+187,Emma,Wilson,customer187@example.com,775-555-0187,2024-08-21,Existing Customer,Active
+188,Sophia,Davis,customer188@example.com,775-555-0188,2025-11-19,Walk-in,Active
+189,James,Thomas,customer189@example.com,775-555-0189,2025-09-29,Existing Customer,Active
+190,Daniel,Jones,customer190@example.com,775-555-0190,2026-05-11,Existing Customer,Active
+191,Chloe,Wilson,customer191@example.com,775-555-0191,2024-02-22,Existing Customer,Active
+192,Isabella,Moore,customer192@example.com,775-555-0192,2023-09-01,Friend/Family,Active
+193,Daniel,Jones,customer193@example.com,775-555-0193,2024-01-01,Google,Inactive
+194,Megan,Thompson,customer194@example.com,775-555-0194,2025-10-23,Friend/Family,Inactive
+195,Taylor,Lee,customer195@example.com,775-555-0195,2025-09-17,Existing Customer,Active
+196,Morgan,Jackson,customer196@example.com,775-555-0196,2023-10-13,Friend/Family,Active
+197,Michael,Martinez,customer197@example.com,775-555-0197,2024-11-08,Friend/Family,Active
+198,Sarah,Brown,customer198@example.com,775-555-0198,2026-01-25,Walk-in,Active
+199,Emily,Johnson,customer199@example.com,775-555-0199,2025-05-26,Instagram,Active
+200,Lauren,Taylor,customer200@example.com,775-555-0200,2024-05-25,Walk-in,Active
+201,Michael,Garcia,customer201@example.com,775-555-0201,2024-07-14,Walk-in,Active
+202,Sophia,Thompson,customer202@example.com,775-555-0202,2024-12-06,Google,Active
+203,Stephanie,Moore,customer203@example.com,775-555-0203,2025-01-02,Google,Active
+204,Morgan,Moore,customer204@example.com,775-555-0204,2025-03-12,Friend/Family,Active
+205,Emma,Anderson,customer205@example.com,775-555-0205,2025-04-04,Friend/Family,Active
+206,Nicole,Moore,customer206@example.com,775-555-0206,2025-04-10,Walk-in,Active
+207,Ava,Brown,customer207@example.com,775-555-0207,2024-11-28,Google,Active
+208,Rachel,Martinez,customer208@example.com,775-555-0208,2023-09-14,Existing Customer,Active
+209,Nicole,Smith,customer209@example.com,775-555-0209,2023-11-09,Existing Customer,Active
+210,Jordan,Martinez,customer210@example.com,775-555-0210,2024-11-14,Friend/Family,Active
+211,Daniel,Miller,customer211@example.com,775-555-0211,2024-12-26,Friend/Family,Active
+212,Michael,Jones,customer212@example.com,775-555-0212,2024-02-15,Existing Customer,Active
+213,Rachel,Moore,customer213@example.com,775-555-0213,2023-10-08,Friend/Family,Active
+214,Ashley,Martinez,customer214@example.com,775-555-0214,2025-05-31,Friend/Family,Active
+215,Amanda,Lee,customer215@example.com,775-555-0215,2025-08-19,Friend/Family,Inactive
+216,Jordan,Garcia,customer216@example.com,775-555-0216,2025-01-08,Existing Customer,Inactive
+217,Alex,Martinez,customer217@example.com,775-555-0217,2025-06-24,Instagram,Active
+218,Ashley,Jones,customer218@example.com,775-555-0218,2024-11-05,Existing Customer,Active
+219,Sophia,Lee,customer219@example.com,775-555-0219,2025-08-19,Walk-in,Active
+220,Nicole,Lee,customer220@example.com,775-555-0220,2024-04-10,Google,Active
+221,Michael,Rodriguez,customer221@example.com,775-555-0221,2025-09-19,Instagram,Inactive
+222,Sarah,Davis,customer222@example.com,775-555-0222,2026-03-23,Walk-in,Inactive
+223,Mia,Wilson,customer223@example.com,775-555-0223,2024-10-27,Friend/Family,Active
+224,Emma,Martinez,customer224@example.com,775-555-0224,2025-11-14,Walk-in,Active
+225,Jessica,Martinez,customer225@example.com,775-555-0225,2026-05-05,Walk-in,Active
+226,Mia,Jones,customer226@example.com,775-555-0226,2025-10-04,Google,Active
+227,David,Lee,customer227@example.com,775-555-0227,2025-12-06,Friend/Family,Active
+228,Morgan,Taylor,customer228@example.com,775-555-0228,2024-02-19,Instagram,Active
+229,Nicole,Johnson,customer229@example.com,775-555-0229,2025-08-28,Walk-in,Active
+230,Stephanie,Anderson,customer230@example.com,775-555-0230,2024-02-20,Existing Customer,Active
+231,Morgan,Anderson,customer231@example.com,775-555-0231,2023-12-03,Google,Active
+232,Sarah,Moore,customer232@example.com,775-555-0232,2024-02-04,Friend/Family,Active
+233,Grace,Smith,customer233@example.com,775-555-0233,2023-11-12,Instagram,Active
+234,Amanda,Perez,customer234@example.com,775-555-0234,2024-09-24,Walk-in,Active
+235,Michelle,Perez,customer235@example.com,775-555-0235,2024-10-16,Instagram,Active
+236,Chris,Jones,customer236@example.com,775-555-0236,2023-08-06,Walk-in,Inactive
+237,Amanda,Lee,customer237@example.com,775-555-0237,2024-12-26,Instagram,Active
+238,Taylor,Smith,customer238@example.com,775-555-0238,2024-04-26,Walk-in,Active
+239,Stephanie,Perez,customer239@example.com,775-555-0239,2025-05-25,Walk-in,Active
+240,Amanda,Taylor,customer240@example.com,775-555-0240,2024-03-20,Friend/Family,Active
+241,Chris,Anderson,customer241@example.com,775-555-0241,2026-06-17,Friend/Family,Active
+242,Stephanie,Thompson,customer242@example.com,775-555-0242,2023-10-28,Friend/Family,Inactive
+243,Michael,Martin,customer243@example.com,775-555-0243,2025-04-09,Google,Inactive
+244,Jessica,Jackson,customer244@example.com,775-555-0244,2025-10-31,Google,Active
+245,James,Moore,customer245@example.com,775-555-0245,2023-12-29,Existing Customer,Active
+246,Amanda,Williams,customer246@example.com,775-555-0246,2024-04-15,Walk-in,Active
+247,Mia,Wilson,customer247@example.com,775-555-0247,2025-09-19,Existing Customer,Active
+248,Emma,Martin,customer248@example.com,775-555-0248,2025-12-29,Walk-in,Active
+249,Taylor,Lee,customer249@example.com,775-555-0249,2024-10-14,Google,Inactive
+250,Olivia,Wilson,customer250@example.com,775-555-0250,2026-02-14,Google,Active
+251,Megan,Taylor,customer251@example.com,775-555-0251,2025-05-02,Friend/Family,Active
+252,Amanda,Jackson,customer252@example.com,775-555-0252,2023-12-16,Walk-in,Active
+253,Olivia,Brown,customer253@example.com,775-555-0253,2025-09-02,Instagram,Active
+254,Chloe,Lee,customer254@example.com,775-555-0254,2025-06-06,Friend/Family,Active
+255,Taylor,Taylor,customer255@example.com,775-555-0255,2023-11-14,Existing Customer,Active
+256,Lauren,Brown,customer256@example.com,775-555-0256,2026-06-05,Walk-in,Active
+257,Stephanie,Brown,customer257@example.com,775-555-0257,2025-07-18,Instagram,Active
+258,Chris,Rodriguez,customer258@example.com,775-555-0258,2024-11-06,Instagram,Inactive
+259,Chris,Thompson,customer259@example.com,775-555-0259,2023-09-23,Friend/Family,Active
+260,James,Rodriguez,customer260@example.com,775-555-0260,2023-09-29,Walk-in,Active
+261,Rachel,Wilson,customer261@example.com,775-555-0261,2025-07-19,Walk-in,Inactive
+262,Chloe,Thomas,customer262@example.com,775-555-0262,2023-12-21,Walk-in,Active
+263,Emily,Williams,customer263@example.com,775-555-0263,2024-10-14,Google,Active
+264,Jennifer,Anderson,customer264@example.com,775-555-0264,2025-04-30,Friend/Family,Active
+265,Chloe,Thompson,customer265@example.com,775-555-0265,2024-01-21,Existing Customer,Active
+266,Chris,Thompson,customer266@example.com,775-555-0266,2023-11-10,Friend/Family,Active
+267,Michael,Taylor,customer267@example.com,775-555-0267,2026-04-21,Friend/Family,Active
+268,Michelle,Martin,customer268@example.com,775-555-0268,2024-03-21,Google,Active
+269,Michael,Perez,customer269@example.com,775-555-0269,2026-04-23,Friend/Family,Active
+270,Stephanie,Thomas,customer270@example.com,775-555-0270,2023-11-21,Walk-in,Active
+271,Michelle,Jones,customer271@example.com,775-555-0271,2025-01-05,Walk-in,Active
+272,Ava,Taylor,customer272@example.com,775-555-0272,2024-07-25,Walk-in,Active
+273,Stephanie,Martin,customer273@example.com,775-555-0273,2025-07-26,Walk-in,Inactive
+274,Jessica,Taylor,customer274@example.com,775-555-0274,2023-09-08,Google,Active
+275,Megan,Perez,customer275@example.com,775-555-0275,2025-12-27,Friend/Family,Active
+276,Olivia,Martinez,customer276@example.com,775-555-0276,2024-03-23,Google,Inactive
+277,Jennifer,Thompson,customer277@example.com,775-555-0277,2026-02-28,Instagram,Inactive
+278,Ashley,Taylor,customer278@example.com,775-555-0278,2024-03-04,Walk-in,Active
+279,Isabella,Williams,customer279@example.com,775-555-0279,2025-10-19,Existing Customer,Active
+280,Stephanie,Wilson,customer280@example.com,775-555-0280,2024-07-10,Walk-in,Active
+281,Isabella,Martin,customer281@example.com,775-555-0281,2024-09-01,Existing Customer,Active
+282,David,Jones,customer282@example.com,775-555-0282,2024-11-26,Walk-in,Active
+283,Jennifer,Thompson,customer283@example.com,775-555-0283,2024-06-09,Instagram,Active
+284,Jennifer,Jackson,customer284@example.com,775-555-0284,2026-03-08,Instagram,Active
+285,Emma,Perez,customer285@example.com,775-555-0285,2025-05-23,Existing Customer,Active
+286,Amanda,Moore,customer286@example.com,775-555-0286,2023-12-18,Google,Active
+287,Alex,Rodriguez,customer287@example.com,775-555-0287,2023-11-24,Google,Active
+288,Emma,Moore,customer288@example.com,775-555-0288,2023-10-17,Walk-in,Inactive
+289,Ashley,Williams,customer289@example.com,775-555-0289,2026-06-04,Google,Active
+290,Alex,Johnson,customer290@example.com,775-555-0290,2026-02-07,Existing Customer,Active
+291,Michelle,Wilson,customer291@example.com,775-555-0291,2026-04-01,Friend/Family,Inactive
+292,Emma,Brown,customer292@example.com,775-555-0292,2025-07-04,Existing Customer,Active
+293,Daniel,Garcia,customer293@example.com,775-555-0293,2023-10-20,Walk-in,Active
+294,Emma,Martin,customer294@example.com,775-555-0294,2026-07-06,Friend/Family,Active
+295,Casey,Martinez,customer295@example.com,775-555-0295,2025-10-02,Google,Active
+296,Grace,Johnson,customer296@example.com,775-555-0296,2025-06-16,Walk-in,Active
+297,Michael,Thomas,customer297@example.com,775-555-0297,2025-03-04,Walk-in,Inactive
+298,Casey,Thompson,customer298@example.com,775-555-0298,2024-06-03,Google,Active
+299,Amanda,Anderson,customer299@example.com,775-555-0299,2025-04-27,Existing Customer,Active
+300,Sophia,Jones,customer300@example.com,775-555-0300,2024-01-21,Google,Active
+301,Alex,Wilson,customer301@example.com,775-555-0301,2024-04-18,Friend/Family,Inactive
+302,David,Martin,customer302@example.com,775-555-0302,2024-02-08,Friend/Family,Active
+303,Lauren,Smith,customer303@example.com,775-555-0303,2025-08-12,Google,Inactive
+304,Megan,Jackson,customer304@example.com,775-555-0304,2024-08-28,Walk-in,Active
+305,Ashley,Martinez,customer305@example.com,775-555-0305,2024-02-24,Friend/Family,Active
+306,David,Martin,customer306@example.com,775-555-0306,2023-10-17,Friend/Family,Inactive
+307,Grace,Jones,customer307@example.com,775-555-0307,2025-09-10,Walk-in,Active
+308,James,Thompson,customer308@example.com,775-555-0308,2024-07-05,Friend/Family,Active
+309,Lauren,Davis,customer309@example.com,775-555-0309,2026-01-26,Friend/Family,Active
+310,Alex,Moore,customer310@example.com,775-555-0310,2024-11-22,Friend/Family,Active
+311,Alex,Jackson,customer311@example.com,775-555-0311,2024-09-01,Google,Inactive
+312,Emma,Moore,customer312@example.com,775-555-0312,2025-02-28,Instagram,Active
+313,Olivia,Garcia,customer313@example.com,775-555-0313,2024-09-12,Instagram,Active
+314,Nicole,Johnson,customer314@example.com,775-555-0314,2026-04-11,Existing Customer,Active
+315,Sarah,Martin,customer315@example.com,775-555-0315,2024-04-12,Walk-in,Active
+316,Nicole,Moore,customer316@example.com,775-555-0316,2026-06-17,Walk-in,Active
+317,Casey,Davis,customer317@example.com,775-555-0317,2026-02-09,Existing Customer,Inactive
+318,Olivia,Johnson,customer318@example.com,775-555-0318,2025-10-20,Friend/Family,Active
+319,Ashley,Anderson,customer319@example.com,775-555-0319,2024-11-02,Walk-in,Inactive
+320,Jordan,Wilson,customer320@example.com,775-555-0320,2024-05-26,Walk-in,Active
+321,Jordan,Jackson,customer321@example.com,775-555-0321,2024-05-11,Instagram,Active
+322,Grace,Smith,customer322@example.com,775-555-0322,2024-01-10,Walk-in,Active
+323,Amanda,Lee,customer323@example.com,775-555-0323,2025-12-14,Walk-in,Active
+324,Rachel,Brown,customer324@example.com,775-555-0324,2023-11-06,Walk-in,Active
+325,Grace,Moore,customer325@example.com,775-555-0325,2023-12-07,Walk-in,Inactive
+326,Grace,Lee,customer326@example.com,775-555-0326,2023-09-03,Friend/Family,Active
+327,James,Jones,customer327@example.com,775-555-0327,2025-03-19,Google,Active
+328,Stephanie,Perez,customer328@example.com,775-555-0328,2025-12-01,Walk-in,Active
+329,Isabella,Anderson,customer329@example.com,775-555-0329,2023-12-17,Existing Customer,Active
+330,Alex,Martin,customer330@example.com,775-555-0330,2023-09-11,Google,Active
+331,Daniel,Thomas,customer331@example.com,775-555-0331,2025-09-03,Walk-in,Active
+332,Alex,Williams,customer332@example.com,775-555-0332,2025-07-07,Walk-in,Active
+333,Sarah,Perez,customer333@example.com,775-555-0333,2025-06-11,Walk-in,Active
+334,Megan,Garcia,customer334@example.com,775-555-0334,2026-03-09,Existing Customer,Active
+335,Jennifer,Jones,customer335@example.com,775-555-0335,2023-12-08,Friend/Family,Inactive
+336,Jessica,Martinez,customer336@example.com,775-555-0336,2024-09-16,Walk-in,Active
+337,Jessica,Wilson,customer337@example.com,775-555-0337,2025-04-27,Friend/Family,Inactive
+338,Mia,Jackson,customer338@example.com,775-555-0338,2024-12-31,Walk-in,Active
+339,Rachel,Anderson,customer339@example.com,775-555-0339,2023-11-06,Existing Customer,Active
+340,Sarah,Anderson,customer340@example.com,775-555-0340,2026-01-11,Existing Customer,Active
+341,Morgan,Thomas,customer341@example.com,775-555-0341,2025-06-25,Existing Customer,Active
+342,Ava,Anderson,customer342@example.com,775-555-0342,2026-06-29,Walk-in,Active
+343,Olivia,Williams,customer343@example.com,775-555-0343,2025-12-29,Friend/Family,Inactive
+344,Mia,Martinez,customer344@example.com,775-555-0344,2025-05-19,Walk-in,Active
+345,Rachel,Martinez,customer345@example.com,775-555-0345,2026-01-30,Friend/Family,Active
+346,James,Moore,customer346@example.com,775-555-0346,2025-07-20,Google,Active
+347,Casey,Anderson,customer347@example.com,775-555-0347,2026-01-07,Walk-in,Inactive
+348,Jessica,Williams,customer348@example.com,775-555-0348,2025-11-09,Google,Active
+349,Michael,Garcia,customer349@example.com,775-555-0349,2023-10-03,Walk-in,Active
+350,Alex,Moore,customer350@example.com,775-555-0350,2023-10-11,Walk-in,Active
+351,Daniel,Anderson,customer351@example.com,775-555-0351,2025-08-11,Google,Active
+352,Grace,Jones,customer352@example.com,775-555-0352,2026-02-07,Existing Customer,Active
+353,Chris,Williams,customer353@example.com,775-555-0353,2024-05-08,Friend/Family,Active
+354,Daniel,Rodriguez,customer354@example.com,775-555-0354,2024-12-24,Existing Customer,Active
+355,Jennifer,Jackson,customer355@example.com,775-555-0355,2026-06-26,Google,Active
+356,Nicole,Rodriguez,customer356@example.com,775-555-0356,2026-01-30,Walk-in,Active
+357,James,Jackson,customer357@example.com,775-555-0357,2024-09-13,Walk-in,Inactive
+358,Emma,Garcia,customer358@example.com,775-555-0358,2026-01-28,Existing Customer,Active
+359,Taylor,Wilson,customer359@example.com,775-555-0359,2025-07-12,Friend/Family,Active
+360,Rachel,Martinez,customer360@example.com,775-555-0360,2024-06-18,Friend/Family,Inactive
+361,Daniel,Garcia,customer361@example.com,775-555-0361,2025-08-10,Friend/Family,Active
+362,Michelle,Jones,customer362@example.com,775-555-0362,2024-11-27,Instagram,Active
+363,Mia,Perez,customer363@example.com,775-555-0363,2025-08-25,Google,Inactive
+364,Amanda,Thompson,customer364@example.com,775-555-0364,2024-01-24,Walk-in,Active
+365,James,Jackson,customer365@example.com,775-555-0365,2025-11-19,Instagram,Inactive
+366,Ashley,Jones,customer366@example.com,775-555-0366,2025-05-11,Friend/Family,Active
+367,Michael,Martin,customer367@example.com,775-555-0367,2025-07-06,Walk-in,Inactive
+368,Mia,Perez,customer368@example.com,775-555-0368,2024-08-07,Instagram,Active
+369,Isabella,Johnson,customer369@example.com,775-555-0369,2024-04-11,Friend/Family,Active
+370,Jennifer,Wilson,customer370@example.com,775-555-0370,2024-11-04,Google,Inactive
+371,Morgan,Martinez,customer371@example.com,775-555-0371,2024-01-09,Walk-in,Active
+372,Mia,Rodriguez,customer372@example.com,775-555-0372,2024-04-13,Friend/Family,Active
+373,Ashley,Martin,customer373@example.com,775-555-0373,2024-07-11,Friend/Family,Active
+374,Jennifer,Thompson,customer374@example.com,775-555-0374,2025-06-22,Instagram,Active
+375,Jordan,Smith,customer375@example.com,775-555-0375,2024-01-14,Walk-in,Active
+376,Chloe,Rodriguez,customer376@example.com,775-555-0376,2024-10-05,Instagram,Active
+377,Daniel,Smith,customer377@example.com,775-555-0377,2026-05-16,Existing Customer,Active
+378,Daniel,Martinez,customer378@example.com,775-555-0378,2026-04-16,Walk-in,Active
+379,Sophia,Martinez,customer379@example.com,775-555-0379,2026-02-14,Walk-in,Active
+380,Emma,Taylor,customer380@example.com,775-555-0380,2026-04-18,Google,Active
+381,Amanda,Wilson,customer381@example.com,775-555-0381,2025-05-15,Friend/Family,Inactive
+382,Sophia,Jones,customer382@example.com,775-555-0382,2025-08-28,Friend/Family,Active
+383,Stephanie,Moore,customer383@example.com,775-555-0383,2024-04-07,Walk-in,Active
+384,Sarah,Johnson,customer384@example.com,775-555-0384,2025-03-17,Existing Customer,Inactive
+385,Olivia,Davis,customer385@example.com,775-555-0385,2024-06-23,Instagram,Inactive
+386,David,Wilson,customer386@example.com,775-555-0386,2024-08-23,Instagram,Active
+387,Isabella,Moore,customer387@example.com,775-555-0387,2026-05-18,Existing Customer,Active
+388,Ashley,Thomas,customer388@example.com,775-555-0388,2026-06-01,Google,Active
+389,Chloe,Anderson,customer389@example.com,775-555-0389,2023-11-08,Walk-in,Active
+390,Morgan,Jackson,customer390@example.com,775-555-0390,2025-03-08,Friend/Family,Inactive
+391,Olivia,Jones,customer391@example.com,775-555-0391,2025-01-23,Friend/Family,Active
+392,Lauren,Johnson,customer392@example.com,775-555-0392,2025-10-29,Walk-in,Active
+393,Lauren,Lee,customer393@example.com,775-555-0393,2025-03-14,Walk-in,Active
+394,Chris,Lee,customer394@example.com,775-555-0394,2025-02-23,Instagram,Active
+395,Grace,Brown,customer395@example.com,775-555-0395,2024-04-20,Existing Customer,Active
+396,Alex,Wilson,customer396@example.com,775-555-0396,2025-08-18,Instagram,Active
+397,Isabella,Thomas,customer397@example.com,775-555-0397,2026-05-21,Walk-in,Active
+398,James,Wilson,customer398@example.com,775-555-0398,2026-03-28,Friend/Family,Active
+399,Morgan,Martin,customer399@example.com,775-555-0399,2024-05-13,Google,Active
+400,Jennifer,Thomas,customer400@example.com,775-555-0400,2025-04-04,Friend/Family,Active
+401,Isabella,Lee,customer401@example.com,775-555-0401,2026-04-30,Friend/Family,Active
+402,Jordan,Smith,customer402@example.com,775-555-0402,2025-08-24,Google,Active
+403,Olivia,Perez,customer403@example.com,775-555-0403,2025-04-22,Instagram,Active
+404,James,Smith,customer404@example.com,775-555-0404,2026-03-29,Walk-in,Active
+405,Chris,Perez,customer405@example.com,775-555-0405,2024-11-09,Friend/Family,Active
+406,Jennifer,Martin,customer406@example.com,775-555-0406,2025-09-17,Walk-in,Active
+407,Jessica,Perez,customer407@example.com,775-555-0407,2024-03-13,Walk-in,Active
+408,Olivia,Jones,customer408@example.com,775-555-0408,2025-11-23,Friend/Family,Active
+409,Chris,Thompson,customer409@example.com,775-555-0409,2026-03-23,Existing Customer,Active
+410,Jessica,Jones,customer410@example.com,775-555-0410,2026-06-28,Walk-in,Active
+411,Michael,Jackson,customer411@example.com,775-555-0411,2025-09-10,Google,Active
+412,Casey,Lee,customer412@example.com,775-555-0412,2025-07-02,Friend/Family,Active
+413,Taylor,Rodriguez,customer413@example.com,775-555-0413,2026-04-18,Walk-in,Active
+414,Mia,Martinez,customer414@example.com,775-555-0414,2024-11-03,Existing Customer,Inactive
+415,Chris,Martinez,customer415@example.com,775-555-0415,2024-09-28,Friend/Family,Active
+416,Ava,Anderson,customer416@example.com,775-555-0416,2025-02-11,Walk-in,Active
+417,Mia,Thomas,customer417@example.com,775-555-0417,2025-10-17,Instagram,Inactive
+418,Alex,Jones,customer418@example.com,775-555-0418,2025-03-17,Walk-in,Inactive
+419,Ashley,Anderson,customer419@example.com,775-555-0419,2026-01-22,Friend/Family,Active
+420,Michelle,Miller,customer420@example.com,775-555-0420,2025-02-06,Existing Customer,Active
+421,Amanda,Brown,customer421@example.com,775-555-0421,2024-12-03,Walk-in,Active
+422,Isabella,Davis,customer422@example.com,775-555-0422,2024-11-19,Walk-in,Active
+423,James,Jackson,customer423@example.com,775-555-0423,2024-02-22,Friend/Family,Active
+424,Mia,Garcia,customer424@example.com,775-555-0424,2025-11-11,Friend/Family,Inactive
+425,Ava,Jackson,customer425@example.com,775-555-0425,2024-09-12,Instagram,Active
+426,Rachel,Johnson,customer426@example.com,775-555-0426,2024-01-31,Friend/Family,Active
+427,David,Johnson,customer427@example.com,775-555-0427,2024-07-24,Google,Inactive
+428,Casey,Johnson,customer428@example.com,775-555-0428,2025-10-22,Instagram,Active
+429,David,Martinez,customer429@example.com,775-555-0429,2023-10-16,Walk-in,Active
+430,Sarah,Wilson,customer430@example.com,775-555-0430,2025-03-05,Google,Active
+431,Isabella,Jackson,customer431@example.com,775-555-0431,2024-05-01,Existing Customer,Active
+432,Michelle,Brown,customer432@example.com,775-555-0432,2025-06-08,Walk-in,Active
+433,Nicole,Garcia,customer433@example.com,775-555-0433,2023-08-29,Friend/Family,Active
+434,Chloe,Miller,customer434@example.com,775-555-0434,2024-07-25,Friend/Family,Active
+435,Sophia,Taylor,customer435@example.com,775-555-0435,2026-06-21,Google,Active
+436,Sarah,Garcia,customer436@example.com,775-555-0436,2024-05-14,Google,Inactive
+437,Emily,Rodriguez,customer437@example.com,775-555-0437,2025-09-24,Walk-in,Active
+438,Megan,Martinez,customer438@example.com,775-555-0438,2023-08-24,Walk-in,Active
+439,Stephanie,Johnson,customer439@example.com,775-555-0439,2024-03-30,Google,Active
+440,Michael,Martin,customer440@example.com,775-555-0440,2025-04-28,Friend/Family,Active
+441,Rachel,Anderson,customer441@example.com,775-555-0441,2024-10-26,Walk-in,Active
+442,Amanda,Moore,customer442@example.com,775-555-0442,2025-09-04,Google,Active
+443,Ava,Lee,customer443@example.com,775-555-0443,2024-10-21,Instagram,Active
+444,Grace,Williams,customer444@example.com,775-555-0444,2026-01-31,Friend/Family,Active
+445,Casey,Perez,customer445@example.com,775-555-0445,2024-03-17,Walk-in,Active
+446,Isabella,Miller,customer446@example.com,775-555-0446,2024-06-02,Walk-in,Inactive
+447,Emma,Brown,customer447@example.com,775-555-0447,2024-09-24,Friend/Family,Active
+448,Morgan,Martin,customer448@example.com,775-555-0448,2026-01-29,Instagram,Active
+449,Isabella,Taylor,customer449@example.com,775-555-0449,2026-02-21,Friend/Family,Active
+450,Michael,Martinez,customer450@example.com,775-555-0450,2023-09-14,Google,Active
+451,David,Miller,customer451@example.com,775-555-0451,2023-12-28,Walk-in,Active
+452,Ashley,Lee,customer452@example.com,775-555-0452,2023-12-02,Existing Customer,Active
+453,Casey,Jackson,customer453@example.com,775-555-0453,2023-10-04,Walk-in,Active
+454,Amanda,Taylor,customer454@example.com,775-555-0454,2025-09-05,Existing Customer,Active
+455,Taylor,Thomas,customer455@example.com,775-555-0455,2025-09-08,Walk-in,Inactive
+456,Taylor,Lee,customer456@example.com,775-555-0456,2024-04-29,Friend/Family,Active
+457,Jennifer,Lee,customer457@example.com,775-555-0457,2025-10-13,Friend/Family,Active
+458,Stephanie,Smith,customer458@example.com,775-555-0458,2023-09-16,Existing Customer,Active
+459,David,Lee,customer459@example.com,775-555-0459,2025-12-16,Friend/Family,Inactive
+460,Stephanie,Moore,customer460@example.com,775-555-0460,2025-07-09,Walk-in,Active
+461,Morgan,Brown,customer461@example.com,775-555-0461,2023-10-05,Instagram,Active
+462,Chris,Smith,customer462@example.com,775-555-0462,2024-12-05,Walk-in,Active
+463,Jessica,Moore,customer463@example.com,775-555-0463,2023-11-08,Walk-in,Active
+464,Emma,Davis,customer464@example.com,775-555-0464,2024-10-18,Instagram,Active
+465,Amanda,Martin,customer465@example.com,775-555-0465,2025-03-15,Walk-in,Inactive
+466,Chloe,Wilson,customer466@example.com,775-555-0466,2025-05-18,Walk-in,Inactive
+467,Michael,Martin,customer467@example.com,775-555-0467,2024-10-26,Google,Active
+468,Mia,Perez,customer468@example.com,775-555-0468,2024-07-24,Friend/Family,Active
+469,Ava,Johnson,customer469@example.com,775-555-0469,2025-07-06,Existing Customer,Active
+470,Alex,Martin,customer470@example.com,775-555-0470,2025-05-14,Friend/Family,Active
+471,Rachel,Thomas,customer471@example.com,775-555-0471,2024-08-11,Instagram,Active
+472,Taylor,Davis,customer472@example.com,775-555-0472,2025-04-07,Existing Customer,Active
+473,Emma,Johnson,customer473@example.com,775-555-0473,2025-11-23,Existing Customer,Active
+474,Amanda,Thomas,customer474@example.com,775-555-0474,2024-12-10,Walk-in,Active
+475,Ashley,Moore,customer475@example.com,775-555-0475,2025-08-29,Walk-in,Active
+476,Michelle,Johnson,customer476@example.com,775-555-0476,2025-01-31,Google,Active
+477,Jessica,Williams,customer477@example.com,775-555-0477,2024-08-20,Instagram,Active
+478,Michael,Lee,customer478@example.com,775-555-0478,2024-10-18,Google,Inactive
+479,Megan,Martinez,customer479@example.com,775-555-0479,2023-09-01,Walk-in,Active
+480,David,Brown,customer480@example.com,775-555-0480,2026-04-07,Existing Customer,Active
+481,James,Miller,customer481@example.com,775-555-0481,2025-10-21,Existing Customer,Active
+482,Chris,Martinez,customer482@example.com,775-555-0482,2025-09-18,Google,Active
+483,Rachel,Rodriguez,customer483@example.com,775-555-0483,2025-08-06,Friend/Family,Active
+484,Sarah,Jackson,customer484@example.com,775-555-0484,2025-05-17,Existing Customer,Active
+485,Olivia,Johnson,customer485@example.com,775-555-0485,2024-10-27,Friend/Family,Active
+486,Mia,Perez,customer486@example.com,775-555-0486,2025-12-03,Walk-in,Active
+487,Stephanie,Thomas,customer487@example.com,775-555-0487,2024-12-16,Google,Active
+488,Michael,Wilson,customer488@example.com,775-555-0488,2025-01-09,Instagram,Active
+489,David,Jackson,customer489@example.com,775-555-0489,2026-03-01,Walk-in,Active
+490,Jennifer,Jones,customer490@example.com,775-555-0490,2026-04-27,Walk-in,Inactive
+491,Daniel,Johnson,customer491@example.com,775-555-0491,2026-07-09,Walk-in,Inactive
+492,Jordan,Johnson,customer492@example.com,775-555-0492,2023-08-14,Google,Inactive
+493,Stephanie,Williams,customer493@example.com,775-555-0493,2024-06-05,Walk-in,Active
+494,Lauren,Johnson,customer494@example.com,775-555-0494,2026-04-16,Friend/Family,Active
+495,Mia,Lee,customer495@example.com,775-555-0495,2025-11-20,Walk-in,Active
+496,Nicole,Lee,customer496@example.com,775-555-0496,2025-03-10,Walk-in,Active
+497,Michael,Taylor,customer497@example.com,775-555-0497,2024-08-02,Walk-in,Active
+498,Amanda,Davis,customer498@example.com,775-555-0498,2024-08-28,Friend/Family,Active
+499,Lauren,Rodriguez,customer499@example.com,775-555-0499,2025-10-21,Walk-in,Inactive
+500,Emma,Perez,customer500@example.com,775-555-0500,2024-12-11,Existing Customer,Active
+501,Michael,Williams,customer501@example.com,775-555-0501,2023-10-04,Walk-in,Active
+502,Mia,Jackson,customer502@example.com,775-555-0502,2023-11-23,Friend/Family,Active
+503,Ashley,Jackson,customer503@example.com,775-555-0503,2026-01-05,Friend/Family,Active
+504,Taylor,Brown,customer504@example.com,775-555-0504,2023-10-27,Walk-in,Inactive
+505,James,Perez,customer505@example.com,775-555-0505,2026-03-31,Walk-in,Inactive
+506,Michael,Rodriguez,customer506@example.com,775-555-0506,2023-10-07,Walk-in,Inactive
+507,Emily,Miller,customer507@example.com,775-555-0507,2024-05-22,Instagram,Active
+508,Sophia,Williams,customer508@example.com,775-555-0508,2025-04-04,Walk-in,Active
+509,Jordan,Thomas,customer509@example.com,775-555-0509,2025-06-10,Google,Active
+510,Alex,Williams,customer510@example.com,775-555-0510,2026-05-22,Friend/Family,Active
+511,Sarah,Taylor,customer511@example.com,775-555-0511,2024-11-18,Instagram,Active
+512,Chris,Thompson,customer512@example.com,775-555-0512,2025-10-21,Existing Customer,Active
+513,Daniel,Rodriguez,customer513@example.com,775-555-0513,2026-02-08,Google,Active
+514,Sophia,Taylor,customer514@example.com,775-555-0514,2024-08-15,Friend/Family,Active
+515,Ashley,Thompson,customer515@example.com,775-555-0515,2025-03-27,Instagram,Active
+516,Ashley,Rodriguez,customer516@example.com,775-555-0516,2024-06-11,Google,Active
+517,Amanda,Thomas,customer517@example.com,775-555-0517,2025-05-10,Google,Active
+518,Rachel,Moore,customer518@example.com,775-555-0518,2025-08-07,Instagram,Active
+519,Ashley,Garcia,customer519@example.com,775-555-0519,2025-12-30,Google,Active
+520,Olivia,Brown,customer520@example.com,775-555-0520,2023-09-23,Walk-in,Active
+521,Grace,Thompson,customer521@example.com,775-555-0521,2025-05-26,Existing Customer,Active
+522,Olivia,Thomas,customer522@example.com,775-555-0522,2024-01-21,Friend/Family,Active
+523,Stephanie,Perez,customer523@example.com,775-555-0523,2026-07-03,Walk-in,Active
+524,Amanda,Rodriguez,customer524@example.com,775-555-0524,2025-04-08,Walk-in,Active
+525,Jennifer,Taylor,customer525@example.com,775-555-0525,2025-02-16,Google,Active
+526,Ashley,Anderson,customer526@example.com,775-555-0526,2024-12-28,Existing Customer,Active
+527,Ava,Thompson,customer527@example.com,775-555-0527,2024-09-04,Google,Active
+528,Emily,Thomas,customer528@example.com,775-555-0528,2025-06-11,Instagram,Active
+529,Taylor,Wilson,customer529@example.com,775-555-0529,2026-01-18,Google,Active
+530,Taylor,Thompson,customer530@example.com,775-555-0530,2024-05-05,Google,Active
+531,James,Miller,customer531@example.com,775-555-0531,2026-04-08,Google,Inactive
+532,Megan,Martinez,customer532@example.com,775-555-0532,2026-05-02,Existing Customer,Active
+533,Megan,Thomas,customer533@example.com,775-555-0533,2025-02-25,Instagram,Active
+534,Sarah,Perez,customer534@example.com,775-555-0534,2024-09-13,Friend/Family,Active
+535,Michael,Lee,customer535@example.com,775-555-0535,2023-09-25,Existing Customer,Active
+536,James,Miller,customer536@example.com,775-555-0536,2026-01-14,Instagram,Inactive
+537,Ashley,Taylor,customer537@example.com,775-555-0537,2026-05-19,Walk-in,Active
+538,Nicole,Jones,customer538@example.com,775-555-0538,2025-12-14,Instagram,Active
+539,Grace,Jackson,customer539@example.com,775-555-0539,2025-10-29,Friend/Family,Inactive
+540,Taylor,Taylor,customer540@example.com,775-555-0540,2023-10-15,Instagram,Active
+541,Morgan,Lee,customer541@example.com,775-555-0541,2024-01-22,Walk-in,Active
+542,Michael,Anderson,customer542@example.com,775-555-0542,2024-07-06,Friend/Family,Active
+543,Daniel,Thomas,customer543@example.com,775-555-0543,2025-06-10,Existing Customer,Active
+544,Emily,Brown,customer544@example.com,775-555-0544,2025-01-11,Walk-in,Active
+545,Mia,Perez,customer545@example.com,775-555-0545,2024-10-26,Google,Active
+546,Chris,Perez,customer546@example.com,775-555-0546,2026-05-21,Walk-in,Inactive
+547,Ava,Brown,customer547@example.com,775-555-0547,2025-03-28,Google,Inactive
+548,Sarah,Jones,customer548@example.com,775-555-0548,2025-07-14,Google,Active
+549,Michelle,Martin,customer549@example.com,775-555-0549,2026-04-16,Google,Active
+550,David,Moore,customer550@example.com,775-555-0550,2025-05-15,Walk-in,Active
+551,James,Brown,customer551@example.com,775-555-0551,2023-09-16,Instagram,Active
+552,Michael,Garcia,customer552@example.com,775-555-0552,2024-12-12,Friend/Family,Active
+553,Megan,Lee,customer553@example.com,775-555-0553,2025-12-21,Existing Customer,Active
+554,Sophia,Garcia,customer554@example.com,775-555-0554,2024-08-16,Friend/Family,Active
+555,Emily,Thompson,customer555@example.com,775-555-0555,2024-09-08,Google,Active
+556,Emily,Miller,customer556@example.com,775-555-0556,2024-09-25,Walk-in,Active
+557,Alex,Williams,customer557@example.com,775-555-0557,2024-02-25,Instagram,Active
+558,Lauren,Wilson,customer558@example.com,775-555-0558,2024-09-07,Google,Active
+559,Taylor,Jackson,customer559@example.com,775-555-0559,2025-05-03,Friend/Family,Active
+560,Chloe,Brown,customer560@example.com,775-555-0560,2025-07-13,Google,Active
+561,Jennifer,Martinez,customer561@example.com,775-555-0561,2024-01-21,Friend/Family,Active
+562,Stephanie,Martinez,customer562@example.com,775-555-0562,2024-03-27,Walk-in,Active
+563,Isabella,Thomas,customer563@example.com,775-555-0563,2025-12-04,Friend/Family,Active
+564,Olivia,Garcia,customer564@example.com,775-555-0564,2026-04-23,Friend/Family,Active
+565,Daniel,Garcia,customer565@example.com,775-555-0565,2024-07-07,Google,Active
+566,Megan,Moore,customer566@example.com,775-555-0566,2023-11-18,Existing Customer,Inactive
+567,Ava,Jones,customer567@example.com,775-555-0567,2024-09-03,Instagram,Inactive
+568,Isabella,Jackson,customer568@example.com,775-555-0568,2025-11-15,Friend/Family,Active
+569,Jordan,Moore,customer569@example.com,775-555-0569,2026-04-27,Walk-in,Active
+570,Alex,Davis,customer570@example.com,775-555-0570,2025-03-21,Walk-in,Active
+571,Rachel,Garcia,customer571@example.com,775-555-0571,2026-02-22,Friend/Family,Active
+572,Ava,Lee,customer572@example.com,775-555-0572,2026-06-12,Walk-in,Active
+573,Chris,Lee,customer573@example.com,775-555-0573,2025-08-21,Friend/Family,Active
+574,Chris,Moore,customer574@example.com,775-555-0574,2024-10-21,Existing Customer,Active
+575,Jordan,Davis,customer575@example.com,775-555-0575,2025-04-01,Existing Customer,Active
+576,Nicole,Anderson,customer576@example.com,775-555-0576,2024-01-26,Google,Inactive
+577,Chris,Davis,customer577@example.com,775-555-0577,2024-10-03,Instagram,Active
+578,Lauren,Thompson,customer578@example.com,775-555-0578,2025-12-24,Walk-in,Active
+579,Michelle,Miller,customer579@example.com,775-555-0579,2023-11-30,Friend/Family,Active
+580,Grace,Lee,customer580@example.com,775-555-0580,2024-07-10,Google,Active
+581,Rachel,Perez,customer581@example.com,775-555-0581,2025-01-29,Existing Customer,Active
+582,Morgan,Brown,customer582@example.com,775-555-0582,2024-05-04,Existing Customer,Active
+583,Casey,Johnson,customer583@example.com,775-555-0583,2025-02-18,Existing Customer,Active
+584,Taylor,Jones,customer584@example.com,775-555-0584,2024-12-24,Walk-in,Active
+585,Stephanie,Thomas,customer585@example.com,775-555-0585,2026-04-29,Walk-in,Active
+586,Daniel,Taylor,customer586@example.com,775-555-0586,2025-09-07,Google,Active
+587,Morgan,Williams,customer587@example.com,775-555-0587,2025-11-03,Friend/Family,Active
+588,Casey,Anderson,customer588@example.com,775-555-0588,2026-02-17,Existing Customer,Active
+589,Emily,Williams,customer589@example.com,775-555-0589,2026-02-24,Friend/Family,Active
+590,Taylor,Williams,customer590@example.com,775-555-0590,2025-10-23,Walk-in,Active
+591,Michelle,Jackson,customer591@example.com,775-555-0591,2025-01-31,Google,Active
+592,Mia,Perez,customer592@example.com,775-555-0592,2024-04-24,Friend/Family,Active
+593,Megan,Johnson,customer593@example.com,775-555-0593,2023-11-03,Walk-in,Active
+594,Emma,Smith,customer594@example.com,775-555-0594,2024-04-11,Existing Customer,Active
+595,Emma,Smith,customer595@example.com,775-555-0595,2025-12-24,Walk-in,Active
+596,Amanda,Martinez,customer596@example.com,775-555-0596,2024-06-21,Existing Customer,Inactive
+597,Ashley,Anderson,customer597@example.com,775-555-0597,2024-12-25,Walk-in,Active
+598,Daniel,Garcia,customer598@example.com,775-555-0598,2023-11-15,Google,Active
+599,James,Davis,customer599@example.com,775-555-0599,2025-12-27,Friend/Family,Active
+600,Emily,Miller,customer600@example.com,775-555-0600,2026-04-03,Walk-in,Active
+601,Isabella,Moore,customer601@example.com,775-555-0601,2023-08-20,Walk-in,Active
+602,Sarah,Taylor,customer602@example.com,775-555-0602,2024-04-27,Google,Active
+603,Ashley,Brown,customer603@example.com,775-555-0603,2024-02-28,Google,Inactive
+604,Amanda,Thomas,customer604@example.com,775-555-0604,2024-04-29,Friend/Family,Active
+605,Ashley,Martin,customer605@example.com,775-555-0605,2023-08-18,Friend/Family,Active
+606,Lauren,Miller,customer606@example.com,775-555-0606,2024-06-06,Existing Customer,Active
+607,Emma,Miller,customer607@example.com,775-555-0607,2024-01-25,Existing Customer,Active
+608,Sarah,Perez,customer608@example.com,775-555-0608,2025-09-25,Google,Active
+609,Alex,Jones,customer609@example.com,775-555-0609,2024-12-20,Walk-in,Active
+610,Mia,Thompson,customer610@example.com,775-555-0610,2025-03-06,Instagram,Active
+611,Taylor,Martinez,customer611@example.com,775-555-0611,2024-09-24,Friend/Family,Active
+612,David,Thomas,customer612@example.com,775-555-0612,2025-03-28,Friend/Family,Active
+613,Alex,Davis,customer613@example.com,775-555-0613,2026-05-10,Google,Active
+614,Daniel,Thompson,customer614@example.com,775-555-0614,2023-12-24,Friend/Family,Inactive
+615,Lauren,Wilson,customer615@example.com,775-555-0615,2024-04-27,Google,Inactive
+616,Olivia,Anderson,customer616@example.com,775-555-0616,2024-07-19,Instagram,Inactive
+617,Chris,Williams,customer617@example.com,775-555-0617,2023-09-04,Friend/Family,Active
+618,Michelle,Johnson,customer618@example.com,775-555-0618,2023-12-02,Existing Customer,Active
+619,Rachel,Martin,customer619@example.com,775-555-0619,2025-11-28,Google,Active
+620,Daniel,Lee,customer620@example.com,775-555-0620,2024-06-08,Walk-in,Active
+621,Isabella,Miller,customer621@example.com,775-555-0621,2024-06-14,Friend/Family,Active
+622,Daniel,Williams,customer622@example.com,775-555-0622,2025-04-27,Friend/Family,Active
+623,Taylor,Davis,customer623@example.com,775-555-0623,2023-11-27,Walk-in,Inactive
+624,Sarah,Moore,customer624@example.com,775-555-0624,2023-11-21,Google,Active
+625,David,Garcia,customer625@example.com,775-555-0625,2024-04-01,Walk-in,Active
+626,Emily,Garcia,customer626@example.com,775-555-0626,2026-05-13,Existing Customer,Active
+627,Alex,Rodriguez,customer627@example.com,775-555-0627,2024-07-07,Google,Active
+628,Taylor,Rodriguez,customer628@example.com,775-555-0628,2024-03-29,Instagram,Active
+629,Alex,Taylor,customer629@example.com,775-555-0629,2025-02-08,Friend/Family,Active
+630,Chloe,Williams,customer630@example.com,775-555-0630,2026-05-13,Google,Active
+631,Ava,Perez,customer631@example.com,775-555-0631,2024-07-07,Google,Active
+632,Sarah,Perez,customer632@example.com,775-555-0632,2024-03-24,Walk-in,Active
+633,Jessica,Smith,customer633@example.com,775-555-0633,2024-12-13,Walk-in,Active
+634,Casey,Jones,customer634@example.com,775-555-0634,2024-08-01,Existing Customer,Inactive
+635,Mia,Taylor,customer635@example.com,775-555-0635,2024-11-02,Google,Active
+636,David,Wilson,customer636@example.com,775-555-0636,2025-02-06,Instagram,Active
+637,Sarah,Martin,customer637@example.com,775-555-0637,2023-11-16,Walk-in,Active
+638,Jessica,Thomas,customer638@example.com,775-555-0638,2023-12-20,Existing Customer,Inactive
+639,Chris,Martinez,customer639@example.com,775-555-0639,2025-06-01,Walk-in,Active
+640,Lauren,Miller,customer640@example.com,775-555-0640,2025-03-20,Friend/Family,Active
+641,Grace,Davis,customer641@example.com,775-555-0641,2026-03-08,Google,Inactive
+642,Chris,Miller,customer642@example.com,775-555-0642,2024-12-15,Walk-in,Inactive
+643,Emily,Davis,customer643@example.com,775-555-0643,2025-07-10,Friend/Family,Active
+644,Emily,Wilson,customer644@example.com,775-555-0644,2023-08-03,Instagram,Active
+645,David,Martinez,customer645@example.com,775-555-0645,2024-02-29,Walk-in,Inactive
+646,Olivia,Jackson,customer646@example.com,775-555-0646,2023-12-01,Existing Customer,Active
+647,Nicole,Williams,customer647@example.com,775-555-0647,2023-10-29,Existing Customer,Inactive
+648,Isabella,Taylor,customer648@example.com,775-555-0648,2025-09-01,Google,Active
+649,Chloe,Brown,customer649@example.com,775-555-0649,2026-06-01,Walk-in,Active
+650,Ashley,Perez,customer650@example.com,775-555-0650,2023-12-06,Google,Inactive
+651,Stephanie,Martinez,customer651@example.com,775-555-0651,2025-01-16,Existing Customer,Inactive
+652,Sophia,Wilson,customer652@example.com,775-555-0652,2025-05-13,Google,Active
+653,Michelle,Jones,customer653@example.com,775-555-0653,2024-03-11,Walk-in,Active
+654,Emma,Wilson,customer654@example.com,775-555-0654,2025-11-10,Walk-in,Active
+655,Chris,Miller,customer655@example.com,775-555-0655,2026-02-11,Google,Active
+656,Sarah,Williams,customer656@example.com,775-555-0656,2024-06-18,Instagram,Active
+657,James,Thompson,customer657@example.com,775-555-0657,2023-10-22,Walk-in,Inactive
+658,Amanda,Williams,customer658@example.com,775-555-0658,2024-12-21,Existing Customer,Active
+659,Jessica,Martinez,customer659@example.com,775-555-0659,2025-01-14,Instagram,Active
+660,Sophia,Moore,customer660@example.com,775-555-0660,2024-12-24,Walk-in,Active
+661,Alex,Jones,customer661@example.com,775-555-0661,2024-04-05,Walk-in,Inactive
+662,Stephanie,Jones,customer662@example.com,775-555-0662,2024-09-09,Instagram,Active
+663,Daniel,Williams,customer663@example.com,775-555-0663,2025-01-12,Existing Customer,Active
+664,Ashley,Miller,customer664@example.com,775-555-0664,2026-01-25,Instagram,Active
+665,Taylor,Wilson,customer665@example.com,775-555-0665,2024-04-07,Walk-in,Active
+666,Jennifer,Perez,customer666@example.com,775-555-0666,2026-01-04,Instagram,Active
+667,Emily,Thomas,customer667@example.com,775-555-0667,2025-12-21,Walk-in,Active
+668,Jennifer,Rodriguez,customer668@example.com,775-555-0668,2025-02-24,Google,Active
+669,Grace,Thompson,customer669@example.com,775-555-0669,2024-12-16,Friend/Family,Active
+670,Morgan,Lee,customer670@example.com,775-555-0670,2026-04-08,Walk-in,Active
+671,Amanda,Taylor,customer671@example.com,775-555-0671,2024-09-12,Friend/Family,Active
+672,Stephanie,Lee,customer672@example.com,775-555-0672,2023-09-09,Existing Customer,Active
+673,Lauren,Jackson,customer673@example.com,775-555-0673,2026-04-19,Google,Active
+674,Megan,Thomas,customer674@example.com,775-555-0674,2025-02-04,Walk-in,Active
+675,Stephanie,Smith,customer675@example.com,775-555-0675,2025-02-26,Walk-in,Inactive
+676,Isabella,Anderson,customer676@example.com,775-555-0676,2024-11-19,Existing Customer,Active
+677,Michael,Davis,customer677@example.com,775-555-0677,2025-01-27,Friend/Family,Active
+678,David,Johnson,customer678@example.com,775-555-0678,2024-10-23,Friend/Family,Inactive
+679,Sophia,Anderson,customer679@example.com,775-555-0679,2024-07-21,Walk-in,Active
+680,Alex,Anderson,customer680@example.com,775-555-0680,2023-09-27,Friend/Family,Active
+681,Chloe,Perez,customer681@example.com,775-555-0681,2024-05-18,Friend/Family,Active
+682,Alex,Jackson,customer682@example.com,775-555-0682,2025-04-24,Walk-in,Active
+683,Jessica,Davis,customer683@example.com,775-555-0683,2024-10-22,Walk-in,Active
+684,Megan,Thompson,customer684@example.com,775-555-0684,2024-09-16,Instagram,Active
+685,Jennifer,Wilson,customer685@example.com,775-555-0685,2023-11-30,Walk-in,Active
+686,Casey,Jones,customer686@example.com,775-555-0686,2024-03-15,Instagram,Inactive
+687,Ashley,Anderson,customer687@example.com,775-555-0687,2025-10-19,Friend/Family,Active
+688,Megan,Jones,customer688@example.com,775-555-0688,2024-06-18,Friend/Family,Active
+689,Daniel,Jackson,customer689@example.com,775-555-0689,2025-05-11,Walk-in,Inactive
+690,James,Thompson,customer690@example.com,775-555-0690,2025-07-31,Walk-in,Active
+691,Jennifer,Thomas,customer691@example.com,775-555-0691,2025-04-20,Friend/Family,Active
+692,Jennifer,Smith,customer692@example.com,775-555-0692,2025-10-10,Existing Customer,Active
+693,Chloe,Johnson,customer693@example.com,775-555-0693,2024-08-07,Friend/Family,Inactive
+694,Grace,Davis,customer694@example.com,775-555-0694,2024-03-01,Existing Customer,Active
+695,David,Williams,customer695@example.com,775-555-0695,2024-11-30,Google,Active
+696,Daniel,Williams,customer696@example.com,775-555-0696,2025-06-18,Google,Active
+697,Stephanie,Williams,customer697@example.com,775-555-0697,2025-07-18,Walk-in,Active
+698,Emily,Johnson,customer698@example.com,775-555-0698,2025-09-29,Google,Active
+699,Jennifer,Taylor,customer699@example.com,775-555-0699,2026-05-06,Existing Customer,Active
+700,Sophia,Brown,customer700@example.com,775-555-0700,2026-04-08,Instagram,Active
+701,Chris,Davis,customer701@example.com,775-555-0701,2024-06-29,Google,Active
+702,Jessica,Martinez,customer702@example.com,775-555-0702,2023-09-11,Google,Inactive
+703,Ashley,Wilson,customer703@example.com,775-555-0703,2024-07-14,Existing Customer,Active
+704,Ashley,Lee,customer704@example.com,775-555-0704,2024-02-07,Google,Inactive
+705,Morgan,Jackson,customer705@example.com,775-555-0705,2023-10-03,Google,Active
+706,Grace,Taylor,customer706@example.com,775-555-0706,2024-06-17,Walk-in,Active
+707,Michelle,Taylor,customer707@example.com,775-555-0707,2025-01-25,Friend/Family,Active
+708,Sarah,Johnson,customer708@example.com,775-555-0708,2025-10-13,Friend/Family,Inactive
+709,Amanda,Johnson,customer709@example.com,775-555-0709,2025-08-08,Walk-in,Active
+710,Jordan,Thompson,customer710@example.com,775-555-0710,2026-04-10,Walk-in,Active
+711,Jennifer,Martinez,customer711@example.com,775-555-0711,2024-01-15,Google,Active
+712,Alex,Thomas,customer712@example.com,775-555-0712,2026-03-22,Google,Active
+713,Ashley,Lee,customer713@example.com,775-555-0713,2025-10-02,Walk-in,Inactive
+714,Lauren,Garcia,customer714@example.com,775-555-0714,2026-01-29,Walk-in,Active
+715,Nicole,Davis,customer715@example.com,775-555-0715,2025-02-01,Friend/Family,Active
+716,James,Brown,customer716@example.com,775-555-0716,2024-01-23,Friend/Family,Active
+717,Olivia,Perez,customer717@example.com,775-555-0717,2024-11-08,Friend/Family,Inactive
+718,Jordan,Martin,customer718@example.com,775-555-0718,2025-12-05,Existing Customer,Active
+719,Casey,Jackson,customer719@example.com,775-555-0719,2024-11-25,Google,Active
+720,Morgan,Johnson,customer720@example.com,775-555-0720,2026-05-25,Friend/Family,Active
+721,Chloe,Thompson,customer721@example.com,775-555-0721,2024-05-28,Walk-in,Active
+722,Jennifer,Garcia,customer722@example.com,775-555-0722,2024-10-07,Instagram,Active
+723,Olivia,Williams,customer723@example.com,775-555-0723,2026-01-08,Walk-in,Inactive
+724,Amanda,Thompson,customer724@example.com,775-555-0724,2025-01-10,Google,Active
+725,Alex,Williams,customer725@example.com,775-555-0725,2024-01-26,Google,Active
+726,Megan,Rodriguez,customer726@example.com,775-555-0726,2026-06-30,Google,Inactive
+727,Alex,Thompson,customer727@example.com,775-555-0727,2026-07-06,Instagram,Active
+728,Amanda,Jones,customer728@example.com,775-555-0728,2024-02-22,Existing Customer,Active
+729,Sarah,Martinez,customer729@example.com,775-555-0729,2025-07-05,Existing Customer,Active
+730,Daniel,Jackson,customer730@example.com,775-555-0730,2026-03-26,Walk-in,Active
+731,Amanda,Thompson,customer731@example.com,775-555-0731,2025-10-31,Walk-in,Inactive
+732,Megan,Davis,customer732@example.com,775-555-0732,2023-11-09,Friend/Family,Inactive
+733,Morgan,Anderson,customer733@example.com,775-555-0733,2023-09-11,Google,Active
+734,Rachel,Rodriguez,customer734@example.com,775-555-0734,2026-05-03,Existing Customer,Active
+735,Taylor,Davis,customer735@example.com,775-555-0735,2024-05-02,Google,Active
+736,Chris,Wilson,customer736@example.com,775-555-0736,2025-02-02,Friend/Family,Active
+737,Ashley,Miller,customer737@example.com,775-555-0737,2026-01-21,Walk-in,Inactive
+738,David,Jackson,customer738@example.com,775-555-0738,2026-06-23,Existing Customer,Inactive
+739,Isabella,Garcia,customer739@example.com,775-555-0739,2023-12-13,Google,Active
+740,Amanda,Martin,customer740@example.com,775-555-0740,2023-09-29,Walk-in,Inactive
+741,Michelle,Johnson,customer741@example.com,775-555-0741,2024-12-23,Walk-in,Active
+742,Lauren,Miller,customer742@example.com,775-555-0742,2025-02-12,Google,Active
+743,Sophia,Brown,customer743@example.com,775-555-0743,2023-10-02,Walk-in,Active
+744,Emma,Garcia,customer744@example.com,775-555-0744,2026-03-29,Friend/Family,Active
+745,Jennifer,Rodriguez,customer745@example.com,775-555-0745,2024-02-02,Walk-in,Active
+746,Jennifer,Perez,customer746@example.com,775-555-0746,2024-10-12,Existing Customer,Active
+747,Michael,Miller,customer747@example.com,775-555-0747,2025-02-02,Friend/Family,Active
+748,Taylor,Smith,customer748@example.com,775-555-0748,2026-03-28,Existing Customer,Active
+749,Grace,Smith,customer749@example.com,775-555-0749,2024-11-01,Walk-in,Active
+750,Rachel,Rodriguez,customer750@example.com,775-555-0750,2025-12-15,Existing Customer,Inactive
+751,Emma,Rodriguez,customer751@example.com,775-555-0751,2024-10-20,Google,Active
+752,Jordan,Thompson,customer752@example.com,775-555-0752,2025-10-22,Friend/Family,Active
+753,Michael,Anderson,customer753@example.com,775-555-0753,2025-03-01,Walk-in,Active
+754,Ashley,Wilson,customer754@example.com,775-555-0754,2025-02-17,Friend/Family,Inactive
+755,Nicole,Martinez,customer755@example.com,775-555-0755,2024-08-20,Walk-in,Active
+756,Morgan,Johnson,customer756@example.com,775-555-0756,2025-11-05,Friend/Family,Active
+757,David,Smith,customer757@example.com,775-555-0757,2026-05-15,Existing Customer,Active
+758,Olivia,Thomas,customer758@example.com,775-555-0758,2025-10-04,Friend/Family,Active
+759,Chloe,Miller,customer759@example.com,775-555-0759,2025-07-03,Friend/Family,Active
+760,Mia,Jackson,customer760@example.com,775-555-0760,2025-08-04,Friend/Family,Inactive
+761,Jordan,Lee,customer761@example.com,775-555-0761,2024-08-05,Walk-in,Active
+762,David,Rodriguez,customer762@example.com,775-555-0762,2024-08-09,Existing Customer,Inactive
+763,Daniel,Williams,customer763@example.com,775-555-0763,2024-10-29,Google,Active
+764,Rachel,Taylor,customer764@example.com,775-555-0764,2025-06-09,Google,Active
+765,Emma,Brown,customer765@example.com,775-555-0765,2026-03-21,Walk-in,Active
+766,Chloe,Thompson,customer766@example.com,775-555-0766,2023-12-24,Google,Active
+767,Sarah,Thomas,customer767@example.com,775-555-0767,2025-04-03,Google,Inactive
+768,Amanda,Jones,customer768@example.com,775-555-0768,2024-09-14,Google,Inactive
+769,Morgan,Moore,customer769@example.com,775-555-0769,2024-05-20,Google,Active
+770,Chris,Williams,customer770@example.com,775-555-0770,2026-04-25,Google,Inactive
+771,Megan,Johnson,customer771@example.com,775-555-0771,2023-08-10,Google,Active
+772,Chris,Garcia,customer772@example.com,775-555-0772,2024-06-20,Google,Active
+773,Ashley,Jones,customer773@example.com,775-555-0773,2026-01-05,Friend/Family,Active
+774,Ava,Thomas,customer774@example.com,775-555-0774,2023-08-10,Walk-in,Active
+775,Lauren,Smith,customer775@example.com,775-555-0775,2025-05-21,Instagram,Active
+776,Emily,Smith,customer776@example.com,775-555-0776,2024-12-22,Walk-in,Inactive
+777,Rachel,Jones,customer777@example.com,775-555-0777,2024-02-27,Google,Active
+778,Jennifer,Williams,customer778@example.com,775-555-0778,2023-11-02,Walk-in,Active
+779,David,Martin,customer779@example.com,775-555-0779,2026-07-09,Google,Inactive
+780,Amanda,Wilson,customer780@example.com,775-555-0780,2026-04-30,Google,Active
+781,Casey,Thomas,customer781@example.com,775-555-0781,2023-09-09,Walk-in,Active
+782,Amanda,Miller,customer782@example.com,775-555-0782,2023-09-14,Friend/Family,Active
+783,Lauren,Johnson,customer783@example.com,775-555-0783,2025-09-07,Existing Customer,Active
+784,Mia,Thompson,customer784@example.com,775-555-0784,2023-11-08,Friend/Family,Active
+785,Sarah,Smith,customer785@example.com,775-555-0785,2023-11-07,Friend/Family,Active
+786,Sophia,Brown,customer786@example.com,775-555-0786,2024-12-30,Google,Active
+787,James,Smith,customer787@example.com,775-555-0787,2025-04-08,Google,Active
+788,Isabella,Rodriguez,customer788@example.com,775-555-0788,2024-05-07,Google,Inactive
+789,Isabella,Thompson,customer789@example.com,775-555-0789,2024-03-29,Walk-in,Active
+790,Ava,Miller,customer790@example.com,775-555-0790,2024-09-13,Instagram,Inactive
+791,Michelle,Anderson,customer791@example.com,775-555-0791,2025-11-17,Walk-in,Active
+792,Ava,Miller,customer792@example.com,775-555-0792,2026-04-11,Google,Active
+793,Michael,Williams,customer793@example.com,775-555-0793,2024-03-14,Instagram,Active
+794,Amanda,Williams,customer794@example.com,775-555-0794,2026-06-13,Walk-in,Active
+795,Morgan,Rodriguez,customer795@example.com,775-555-0795,2024-11-16,Google,Inactive
+796,Nicole,Moore,customer796@example.com,775-555-0796,2023-11-11,Walk-in,Active
+797,Jessica,Martinez,customer797@example.com,775-555-0797,2025-08-07,Instagram,Active
+798,David,Brown,customer798@example.com,775-555-0798,2024-02-11,Existing Customer,Inactive
+799,Emily,Jones,customer799@example.com,775-555-0799,2024-07-15,Google,Inactive
+800,Grace,Rodriguez,customer800@example.com,775-555-0800,2024-02-07,Google,Active
+801,Sarah,Thomas,customer801@example.com,775-555-0801,2025-10-28,Existing Customer,Active
+802,Sophia,Jackson,customer802@example.com,775-555-0802,2025-12-11,Friend/Family,Active
+803,Sarah,Jones,customer803@example.com,775-555-0803,2023-11-29,Existing Customer,Inactive
+804,Sarah,Taylor,customer804@example.com,775-555-0804,2026-04-15,Instagram,Active
+805,Jennifer,Thompson,customer805@example.com,775-555-0805,2025-09-16,Instagram,Active
+806,Taylor,Jones,customer806@example.com,775-555-0806,2026-04-16,Existing Customer,Active
+807,Olivia,Moore,customer807@example.com,775-555-0807,2023-11-03,Walk-in,Active
+808,Emily,Martin,customer808@example.com,775-555-0808,2024-11-01,Existing Customer,Active
+809,Megan,Martin,customer809@example.com,775-555-0809,2026-07-07,Friend/Family,Active
+810,Olivia,Davis,customer810@example.com,775-555-0810,2026-04-13,Google,Active
+811,Sophia,Jones,customer811@example.com,775-555-0811,2023-11-20,Walk-in,Inactive
+812,Isabella,Jackson,customer812@example.com,775-555-0812,2026-05-12,Existing Customer,Active
+813,Ava,Wilson,customer813@example.com,775-555-0813,2024-12-06,Google,Active
+814,Isabella,Davis,customer814@example.com,775-555-0814,2025-09-14,Google,Active
+815,Emma,Moore,customer815@example.com,775-555-0815,2026-02-03,Walk-in,Active
+816,Megan,Brown,customer816@example.com,775-555-0816,2026-05-15,Friend/Family,Active
+817,Sophia,Taylor,customer817@example.com,775-555-0817,2023-10-13,Friend/Family,Active
+818,Ashley,Thompson,customer818@example.com,775-555-0818,2025-04-15,Existing Customer,Active
+819,Daniel,Moore,customer819@example.com,775-555-0819,2025-06-29,Google,Active
+820,Stephanie,Moore,customer820@example.com,775-555-0820,2025-06-10,Friend/Family,Active
+821,Ava,Anderson,customer821@example.com,775-555-0821,2026-02-12,Walk-in,Active
+822,Stephanie,Smith,customer822@example.com,775-555-0822,2025-06-30,Google,Active
+823,Alex,Martinez,customer823@example.com,775-555-0823,2026-07-05,Google,Active
+824,Morgan,Garcia,customer824@example.com,775-555-0824,2026-05-05,Walk-in,Active
+825,David,Taylor,customer825@example.com,775-555-0825,2024-03-07,Walk-in,Active
+826,Sarah,Thomas,customer826@example.com,775-555-0826,2024-10-15,Google,Active
+827,James,Wilson,customer827@example.com,775-555-0827,2024-03-08,Instagram,Active
+828,Daniel,Perez,customer828@example.com,775-555-0828,2024-04-09,Instagram,Active
+829,Michael,Perez,customer829@example.com,775-555-0829,2026-05-29,Walk-in,Active
+830,Isabella,Johnson,customer830@example.com,775-555-0830,2026-01-03,Instagram,Active
+831,Isabella,Garcia,customer831@example.com,775-555-0831,2024-07-21,Friend/Family,Active
+832,Sophia,Thompson,customer832@example.com,775-555-0832,2025-05-21,Friend/Family,Active
+833,Grace,Davis,customer833@example.com,775-555-0833,2025-02-11,Google,Active
+834,Rachel,Moore,customer834@example.com,775-555-0834,2024-04-30,Walk-in,Active
+835,Morgan,Martin,customer835@example.com,775-555-0835,2025-04-04,Instagram,Active
+836,Megan,Lee,customer836@example.com,775-555-0836,2024-10-19,Walk-in,Active
+837,Rachel,Anderson,customer837@example.com,775-555-0837,2024-04-28,Existing Customer,Active
+838,Jennifer,Martin,customer838@example.com,775-555-0838,2025-05-22,Friend/Family,Active
+839,Mia,Jackson,customer839@example.com,775-555-0839,2025-12-02,Friend/Family,Inactive
+840,Mia,Martinez,customer840@example.com,775-555-0840,2025-12-13,Instagram,Active
+841,Emily,Thomas,customer841@example.com,775-555-0841,2024-05-24,Walk-in,Active
+842,Nicole,Garcia,customer842@example.com,775-555-0842,2025-03-09,Friend/Family,Active
+843,Jessica,Martinez,customer843@example.com,775-555-0843,2024-09-21,Instagram,Active
+844,Jordan,Moore,customer844@example.com,775-555-0844,2024-02-26,Friend/Family,Active
+845,Mia,Davis,customer845@example.com,775-555-0845,2025-10-05,Walk-in,Active
+846,Alex,Martinez,customer846@example.com,775-555-0846,2023-11-05,Existing Customer,Active
+847,Alex,Wilson,customer847@example.com,775-555-0847,2023-11-19,Walk-in,Active
+848,Grace,Moore,customer848@example.com,775-555-0848,2024-11-04,Existing Customer,Active
+849,Daniel,Anderson,customer849@example.com,775-555-0849,2024-09-06,Instagram,Inactive
+850,Rachel,Moore,customer850@example.com,775-555-0850,2024-07-29,Existing Customer,Active
+851,Jennifer,Martin,customer851@example.com,775-555-0851,2024-04-01,Google,Active
+852,Mia,Rodriguez,customer852@example.com,775-555-0852,2024-04-23,Walk-in,Inactive
+853,Emily,Wilson,customer853@example.com,775-555-0853,2026-03-13,Friend/Family,Active
+854,Amanda,Wilson,customer854@example.com,775-555-0854,2023-11-13,Instagram,Active
+855,Jordan,Martinez,customer855@example.com,775-555-0855,2026-05-01,Instagram,Active
+856,Ashley,Wilson,customer856@example.com,775-555-0856,2024-10-24,Existing Customer,Active
+857,Alex,Martin,customer857@example.com,775-555-0857,2024-06-22,Google,Active
+858,Ashley,Anderson,customer858@example.com,775-555-0858,2024-10-27,Existing Customer,Active
+859,Megan,Anderson,customer859@example.com,775-555-0859,2025-03-24,Walk-in,Active
+860,Isabella,Jackson,customer860@example.com,775-555-0860,2023-08-19,Walk-in,Active
+861,Stephanie,Thompson,customer861@example.com,775-555-0861,2024-12-12,Existing Customer,Active
+862,Megan,Thomas,customer862@example.com,775-555-0862,2024-03-20,Google,Active
+863,Rachel,Smith,customer863@example.com,775-555-0863,2026-06-24,Instagram,Active
+864,Alex,Martin,customer864@example.com,775-555-0864,2026-01-29,Google,Active
+865,Daniel,Miller,customer865@example.com,775-555-0865,2025-05-18,Friend/Family,Inactive
+866,Jennifer,Lee,customer866@example.com,775-555-0866,2023-08-16,Friend/Family,Active
+867,Daniel,Miller,customer867@example.com,775-555-0867,2025-12-16,Instagram,Active
+868,Jordan,Taylor,customer868@example.com,775-555-0868,2023-12-26,Friend/Family,Active
+869,Emma,Wilson,customer869@example.com,775-555-0869,2023-10-17,Walk-in,Active
+870,Alex,Rodriguez,customer870@example.com,775-555-0870,2023-12-23,Friend/Family,Active
+871,Nicole,Taylor,customer871@example.com,775-555-0871,2025-10-03,Google,Active
+872,Megan,Smith,customer872@example.com,775-555-0872,2025-10-06,Friend/Family,Active
+873,Daniel,Thompson,customer873@example.com,775-555-0873,2023-12-08,Instagram,Active
+874,James,Williams,customer874@example.com,775-555-0874,2025-08-02,Existing Customer,Active
+875,Alex,Martinez,customer875@example.com,775-555-0875,2024-01-25,Walk-in,Inactive
+876,Sophia,Thomas,customer876@example.com,775-555-0876,2023-10-03,Google,Active
+877,Amanda,Thomas,customer877@example.com,775-555-0877,2025-03-27,Existing Customer,Active
+878,Michael,Anderson,customer878@example.com,775-555-0878,2023-08-23,Friend/Family,Active
+879,Sarah,Johnson,customer879@example.com,775-555-0879,2023-08-11,Friend/Family,Active
+880,Mia,Williams,customer880@example.com,775-555-0880,2025-04-16,Walk-in,Active
+881,David,Anderson,customer881@example.com,775-555-0881,2024-10-07,Google,Active
+882,Isabella,Jones,customer882@example.com,775-555-0882,2024-06-25,Walk-in,Active
+883,Nicole,Miller,customer883@example.com,775-555-0883,2024-03-22,Walk-in,Active
+884,Taylor,Johnson,customer884@example.com,775-555-0884,2026-03-02,Friend/Family,Active
+885,Michael,Williams,customer885@example.com,775-555-0885,2024-12-26,Walk-in,Active
+886,Ava,Wilson,customer886@example.com,775-555-0886,2025-08-01,Walk-in,Active
+887,Sarah,Martinez,customer887@example.com,775-555-0887,2023-12-21,Existing Customer,Active
+888,Emma,Wilson,customer888@example.com,775-555-0888,2025-04-18,Friend/Family,Active
+889,Chloe,Anderson,customer889@example.com,775-555-0889,2025-05-09,Existing Customer,Active
+890,Megan,Davis,customer890@example.com,775-555-0890,2024-10-27,Friend/Family,Active
+891,Nicole,Anderson,customer891@example.com,775-555-0891,2024-05-02,Friend/Family,Active
+892,Ava,Moore,customer892@example.com,775-555-0892,2026-01-29,Google,Active
+893,Mia,Brown,customer893@example.com,775-555-0893,2024-07-25,Friend/Family,Active
+894,Nicole,Jones,customer894@example.com,775-555-0894,2024-09-06,Walk-in,Inactive
+895,Ashley,Williams,customer895@example.com,775-555-0895,2023-09-08,Instagram,Active
+896,Jordan,Perez,customer896@example.com,775-555-0896,2025-11-07,Instagram,Active
+897,Jessica,Lee,customer897@example.com,775-555-0897,2025-01-15,Friend/Family,Inactive
+898,Ava,Jones,customer898@example.com,775-555-0898,2025-08-19,Google,Inactive
+899,Chloe,Martinez,customer899@example.com,775-555-0899,2024-05-01,Google,Active
+900,Sophia,Anderson,customer900@example.com,775-555-0900,2026-05-25,Walk-in,Active
+901,Alex,Thompson,customer901@example.com,775-555-0901,2024-07-05,Instagram,Active
+902,Jennifer,Garcia,customer902@example.com,775-555-0902,2024-05-26,Friend/Family,Active
+903,Lauren,Johnson,customer903@example.com,775-555-0903,2024-10-22,Instagram,Active
+904,Nicole,Anderson,customer904@example.com,775-555-0904,2024-11-22,Walk-in,Active
+905,Casey,Anderson,customer905@example.com,775-555-0905,2025-10-03,Google,Active
+906,Jessica,Johnson,customer906@example.com,775-555-0906,2025-05-25,Walk-in,Inactive
+907,Daniel,Rodriguez,customer907@example.com,775-555-0907,2025-01-21,Friend/Family,Active
+908,Sophia,Thomas,customer908@example.com,775-555-0908,2025-08-18,Friend/Family,Inactive
+909,Ashley,Martin,customer909@example.com,775-555-0909,2024-12-28,Google,Inactive
+910,Isabella,Thomas,customer910@example.com,775-555-0910,2025-07-23,Instagram,Active
+911,Alex,Jackson,customer911@example.com,775-555-0911,2023-08-14,Friend/Family,Active
+912,Jennifer,Davis,customer912@example.com,775-555-0912,2024-01-05,Friend/Family,Active
+913,Amanda,Garcia,customer913@example.com,775-555-0913,2024-06-18,Google,Active
+914,Sarah,Davis,customer914@example.com,775-555-0914,2025-11-27,Instagram,Active
+915,Ava,Jackson,customer915@example.com,775-555-0915,2026-04-08,Walk-in,Active
+916,Jordan,Taylor,customer916@example.com,775-555-0916,2023-09-15,Walk-in,Active
+917,Chloe,Garcia,customer917@example.com,775-555-0917,2024-05-02,Friend/Family,Active
+918,Chloe,Jones,customer918@example.com,775-555-0918,2023-11-23,Walk-in,Inactive
+919,Isabella,Thomas,customer919@example.com,775-555-0919,2023-09-08,Existing Customer,Active
+920,Jordan,Martinez,customer920@example.com,775-555-0920,2024-01-23,Walk-in,Active
+921,Ava,Jackson,customer921@example.com,775-555-0921,2024-07-15,Walk-in,Active
+922,Amanda,Perez,customer922@example.com,775-555-0922,2024-08-07,Friend/Family,Active
+923,Jennifer,Wilson,customer923@example.com,775-555-0923,2026-02-14,Friend/Family,Active
+924,Sophia,Thomas,customer924@example.com,775-555-0924,2024-04-27,Walk-in,Active
+925,Taylor,Martin,customer925@example.com,775-555-0925,2025-12-07,Instagram,Active
+926,Jennifer,Jackson,customer926@example.com,775-555-0926,2023-10-19,Existing Customer,Active
+927,Chris,Brown,customer927@example.com,775-555-0927,2024-02-07,Google,Active
+928,Grace,Lee,customer928@example.com,775-555-0928,2023-08-03,Existing Customer,Active
+929,Daniel,Taylor,customer929@example.com,775-555-0929,2026-07-05,Google,Inactive
+930,James,Martin,customer930@example.com,775-555-0930,2025-12-26,Walk-in,Active
+931,Alex,Thomas,customer931@example.com,775-555-0931,2025-07-18,Friend/Family,Active
+932,Chris,Perez,customer932@example.com,775-555-0932,2024-02-17,Google,Active
+933,Chris,Davis,customer933@example.com,775-555-0933,2024-01-19,Walk-in,Inactive
+934,Olivia,Rodriguez,customer934@example.com,775-555-0934,2024-08-22,Walk-in,Active
+935,Emily,Perez,customer935@example.com,775-555-0935,2026-07-06,Walk-in,Active
+936,Daniel,Miller,customer936@example.com,775-555-0936,2025-05-08,Google,Active
+937,Olivia,Perez,customer937@example.com,775-555-0937,2025-01-01,Walk-in,Active
+938,Chloe,Anderson,customer938@example.com,775-555-0938,2025-02-15,Existing Customer,Active
+939,Michelle,Taylor,customer939@example.com,775-555-0939,2026-04-15,Walk-in,Active
+940,Ava,Rodriguez,customer940@example.com,775-555-0940,2025-04-20,Friend/Family,Active
+941,Sophia,Jones,customer941@example.com,775-555-0941,2024-03-31,Friend/Family,Active
+942,James,Garcia,customer942@example.com,775-555-0942,2024-02-22,Walk-in,Active
+943,Megan,Lee,customer943@example.com,775-555-0943,2023-11-15,Walk-in,Inactive
+944,Emily,Williams,customer944@example.com,775-555-0944,2024-05-24,Google,Active
+945,Ashley,Williams,customer945@example.com,775-555-0945,2025-01-20,Walk-in,Active
+946,Jessica,Thomas,customer946@example.com,775-555-0946,2025-10-29,Friend/Family,Active
+947,James,Thompson,customer947@example.com,775-555-0947,2023-11-26,Existing Customer,Inactive
+948,Daniel,Jackson,customer948@example.com,775-555-0948,2026-01-16,Walk-in,Inactive
+949,Casey,Martin,customer949@example.com,775-555-0949,2025-03-08,Walk-in,Active
+950,Isabella,Martin,customer950@example.com,775-555-0950,2024-11-17,Friend/Family,Active
+951,Lauren,Davis,customer951@example.com,775-555-0951,2023-08-01,Existing Customer,Active
+952,Nicole,Thomas,customer952@example.com,775-555-0952,2025-07-24,Friend/Family,Active
+953,Michelle,Martin,customer953@example.com,775-555-0953,2023-09-01,Friend/Family,Active
+954,Ashley,Lee,customer954@example.com,775-555-0954,2025-03-05,Friend/Family,Active
+955,Chloe,Anderson,customer955@example.com,775-555-0955,2025-07-12,Existing Customer,Active
+956,Grace,Miller,customer956@example.com,775-555-0956,2026-02-17,Existing Customer,Active
+957,Nicole,Garcia,customer957@example.com,775-555-0957,2025-11-11,Friend/Family,Active
+958,Isabella,Martinez,customer958@example.com,775-555-0958,2025-06-27,Existing Customer,Active
+959,Nicole,Lee,customer959@example.com,775-555-0959,2024-12-25,Friend/Family,Inactive
+960,Chloe,Jackson,customer960@example.com,775-555-0960,2024-12-11,Instagram,Inactive
+961,Emma,Moore,customer961@example.com,775-555-0961,2023-09-26,Google,Active
+962,Sophia,Davis,customer962@example.com,775-555-0962,2024-11-13,Instagram,Active
+963,Lauren,Martin,customer963@example.com,775-555-0963,2023-08-20,Friend/Family,Active
+964,Rachel,Williams,customer964@example.com,775-555-0964,2025-10-26,Friend/Family,Inactive
+965,Ashley,Lee,customer965@example.com,775-555-0965,2024-07-31,Google,Active
+966,Morgan,Perez,customer966@example.com,775-555-0966,2025-02-02,Walk-in,Active
+967,Casey,Miller,customer967@example.com,775-555-0967,2026-05-18,Friend/Family,Active
+968,Stephanie,Rodriguez,customer968@example.com,775-555-0968,2024-09-27,Walk-in,Inactive
+969,Jordan,Thompson,customer969@example.com,775-555-0969,2025-07-30,Walk-in,Active
+970,Casey,Williams,customer970@example.com,775-555-0970,2026-05-05,Friend/Family,Active
+971,Mia,Johnson,customer971@example.com,775-555-0971,2026-04-14,Google,Active
+972,Morgan,Perez,customer972@example.com,775-555-0972,2025-02-13,Google,Inactive
+973,Casey,Martin,customer973@example.com,775-555-0973,2025-02-24,Google,Active
+974,Amanda,Johnson,customer974@example.com,775-555-0974,2025-12-14,Google,Active
+975,Isabella,Anderson,customer975@example.com,775-555-0975,2025-10-15,Existing Customer,Active
+976,Emma,Brown,customer976@example.com,775-555-0976,2026-06-27,Google,Active
+977,Emily,Miller,customer977@example.com,775-555-0977,2025-09-16,Friend/Family,Active
+978,Grace,Rodriguez,customer978@example.com,775-555-0978,2024-08-18,Friend/Family,Active
+979,Ava,Thompson,customer979@example.com,775-555-0979,2025-07-03,Google,Active
+980,Michelle,Taylor,customer980@example.com,775-555-0980,2025-09-01,Google,Active
+981,Emma,Garcia,customer981@example.com,775-555-0981,2024-04-25,Existing Customer,Active
+982,Jordan,Brown,customer982@example.com,775-555-0982,2025-02-03,Instagram,Active
+983,Taylor,Thomas,customer983@example.com,775-555-0983,2024-09-05,Walk-in,Inactive
+984,Amanda,Jackson,customer984@example.com,775-555-0984,2023-08-20,Walk-in,Active
+985,Morgan,Martin,customer985@example.com,775-555-0985,2025-05-08,Instagram,Active
+986,Mia,Perez,customer986@example.com,775-555-0986,2023-11-06,Google,Active
+987,Jessica,Miller,customer987@example.com,775-555-0987,2025-01-02,Google,Active
+988,Emma,Wilson,customer988@example.com,775-555-0988,2025-01-14,Google,Active
+989,Casey,Rodriguez,customer989@example.com,775-555-0989,2025-07-05,Walk-in,Active
+990,Taylor,Thompson,customer990@example.com,775-555-0990,2024-09-11,Friend/Family,Active
+991,Mia,Garcia,customer991@example.com,775-555-0991,2025-03-05,Google,Active
+992,Ava,Moore,customer992@example.com,775-555-0992,2024-01-08,Google,Active
+993,Daniel,Jones,customer993@example.com,775-555-0993,2024-07-09,Friend/Family,Inactive
+994,Olivia,Thompson,customer994@example.com,775-555-0994,2025-11-06,Instagram,Active
+995,Jennifer,Wilson,customer995@example.com,775-555-0995,2024-11-10,Google,Active
+996,James,Rodriguez,customer996@example.com,775-555-0996,2025-10-18,Walk-in,Active
+997,Taylor,Anderson,customer997@example.com,775-555-0997,2026-07-02,Existing Customer,Active
+998,Jennifer,Smith,customer998@example.com,775-555-0998,2024-04-13,Friend/Family,Active
+999,David,Williams,customer999@example.com,775-555-0999,2024-10-05,Walk-in,Active
+1000,Ashley,Jackson,customer1000@example.com,775-555-1000,2023-11-19,Walk-in,Active
+1001,Chris,Williams,customer1001@example.com,775-555-1001,2024-02-29,Walk-in,Active
+1002,Daniel,Thomas,customer1002@example.com,775-555-1002,2025-04-25,Walk-in,Active
+1003,Emma,Jones,customer1003@example.com,775-555-1003,2024-04-25,Friend/Family,Active
+1004,Jessica,Anderson,customer1004@example.com,775-555-1004,2025-05-28,Existing Customer,Active
+1005,Taylor,Lee,customer1005@example.com,775-555-1005,2025-02-08,Friend/Family,Active
+1006,James,Lee,customer1006@example.com,775-555-1006,2024-07-28,Friend/Family,Active
+1007,David,Perez,customer1007@example.com,775-555-1007,2026-01-07,Friend/Family,Active
+1008,Rachel,Anderson,customer1008@example.com,775-555-1008,2026-04-13,Friend/Family,Active
+1009,Emma,Martinez,customer1009@example.com,775-555-1009,2025-08-19,Google,Active
+1010,Emily,Smith,customer1010@example.com,775-555-1010,2026-07-07,Instagram,Inactive
+1011,Lauren,Martinez,customer1011@example.com,775-555-1011,2026-03-18,Friend/Family,Active
+1012,Ava,Jackson,customer1012@example.com,775-555-1012,2025-04-05,Walk-in,Active
+1013,Rachel,Thompson,customer1013@example.com,775-555-1013,2024-11-16,Instagram,Active
+1014,Michelle,Taylor,customer1014@example.com,775-555-1014,2026-01-12,Google,Active
+1015,David,Thomas,customer1015@example.com,775-555-1015,2025-09-13,Walk-in,Active
+1016,Daniel,Davis,customer1016@example.com,775-555-1016,2026-06-24,Instagram,Inactive
+1017,Alex,Rodriguez,customer1017@example.com,775-555-1017,2025-03-06,Friend/Family,Active
+1018,Nicole,Taylor,customer1018@example.com,775-555-1018,2024-08-20,Existing Customer,Active
+1019,Rachel,Brown,customer1019@example.com,775-555-1019,2026-02-18,Friend/Family,Active
+1020,Grace,Jackson,customer1020@example.com,775-555-1020,2024-08-19,Google,Active
+1021,Mia,Smith,customer1021@example.com,775-555-1021,2024-08-15,Existing Customer,Active
+1022,Amanda,Moore,customer1022@example.com,775-555-1022,2023-08-17,Walk-in,Active
+1023,Ava,Miller,customer1023@example.com,775-555-1023,2025-07-01,Google,Active
+1024,Ava,Anderson,customer1024@example.com,775-555-1024,2026-03-07,Friend/Family,Active
+1025,Ashley,Jones,customer1025@example.com,775-555-1025,2023-11-23,Walk-in,Active
+1026,Mia,Jackson,customer1026@example.com,775-555-1026,2024-08-06,Walk-in,Inactive
+1027,Jordan,Thomas,customer1027@example.com,775-555-1027,2023-08-26,Walk-in,Active
+1028,Stephanie,Thomas,customer1028@example.com,775-555-1028,2026-01-24,Walk-in,Inactive
+1029,Michelle,Moore,customer1029@example.com,775-555-1029,2024-02-09,Friend/Family,Inactive
+1030,Ava,Thomas,customer1030@example.com,775-555-1030,2025-05-01,Existing Customer,Active
+1031,David,Johnson,customer1031@example.com,775-555-1031,2026-07-02,Walk-in,Active
+1032,Rachel,Miller,customer1032@example.com,775-555-1032,2025-08-08,Existing Customer,Inactive
+1033,Michelle,Brown,customer1033@example.com,775-555-1033,2024-11-26,Friend/Family,Active
+1034,Jennifer,Rodriguez,customer1034@example.com,775-555-1034,2024-04-02,Google,Active
+1035,Jessica,Perez,customer1035@example.com,775-555-1035,2026-03-31,Friend/Family,Active
+1036,Chris,Williams,customer1036@example.com,775-555-1036,2024-12-22,Walk-in,Active
+1037,Grace,Wilson,customer1037@example.com,775-555-1037,2023-12-01,Walk-in,Active
+1038,James,Lee,customer1038@example.com,775-555-1038,2024-03-07,Walk-in,Active
+1039,Mia,Anderson,customer1039@example.com,775-555-1039,2026-01-15,Friend/Family,Active
+1040,Sophia,Anderson,customer1040@example.com,775-555-1040,2024-05-02,Walk-in,Active
+1041,James,Moore,customer1041@example.com,775-555-1041,2025-03-26,Friend/Family,Active
+1042,Chloe,Garcia,customer1042@example.com,775-555-1042,2025-07-13,Google,Active
+1043,Taylor,Thompson,customer1043@example.com,775-555-1043,2024-06-24,Walk-in,Active
+1044,Rachel,Rodriguez,customer1044@example.com,775-555-1044,2025-08-21,Google,Active
+1045,Isabella,Thomas,customer1045@example.com,775-555-1045,2024-08-14,Existing Customer,Active
+1046,Lauren,Thompson,customer1046@example.com,775-555-1046,2024-12-02,Google,Active
+1047,Mia,Thomas,customer1047@example.com,775-555-1047,2024-08-23,Friend/Family,Active
+1048,Mia,Jones,customer1048@example.com,775-555-1048,2025-03-02,Google,Active
+1049,Sarah,Brown,customer1049@example.com,775-555-1049,2026-07-07,Friend/Family,Active
+1050,Amanda,Garcia,customer1050@example.com,775-555-1050,2023-10-04,Walk-in,Active
+1051,Sarah,Johnson,customer1051@example.com,775-555-1051,2025-10-04,Friend/Family,Active
+1052,James,Perez,customer1052@example.com,775-555-1052,2025-01-06,Walk-in,Active
+1053,James,Williams,customer1053@example.com,775-555-1053,2023-08-27,Existing Customer,Active
+1054,Ava,Williams,customer1054@example.com,775-555-1054,2026-03-16,Instagram,Active
+1055,Mia,Taylor,customer1055@example.com,775-555-1055,2025-08-25,Instagram,Active
+1056,Grace,Rodriguez,customer1056@example.com,775-555-1056,2023-10-23,Friend/Family,Inactive
+1057,Ashley,Miller,customer1057@example.com,775-555-1057,2026-06-29,Walk-in,Active
+1058,Mia,Thomas,customer1058@example.com,775-555-1058,2024-08-23,Walk-in,Active
+1059,Chloe,Garcia,customer1059@example.com,775-555-1059,2025-11-28,Friend/Family,Active
+1060,Chloe,Anderson,customer1060@example.com,775-555-1060,2026-02-25,Friend/Family,Active
+1061,Sarah,Garcia,customer1061@example.com,775-555-1061,2024-08-04,Friend/Family,Active
+1062,Michael,Garcia,customer1062@example.com,775-555-1062,2026-01-24,Existing Customer,Inactive
+1063,Mia,Wilson,customer1063@example.com,775-555-1063,2025-08-31,Google,Active
+1064,Jordan,Wilson,customer1064@example.com,775-555-1064,2024-12-05,Friend/Family,Active
+1065,Chris,Lee,customer1065@example.com,775-555-1065,2025-01-02,Google,Active
+1066,Sophia,Smith,customer1066@example.com,775-555-1066,2023-10-10,Existing Customer,Active
+1067,Isabella,Jones,customer1067@example.com,775-555-1067,2025-04-10,Walk-in,Inactive
+1068,Michelle,Wilson,customer1068@example.com,775-555-1068,2023-09-14,Instagram,Inactive
+1069,Jordan,Rodriguez,customer1069@example.com,775-555-1069,2026-06-13,Friend/Family,Inactive
+1070,Amanda,Brown,customer1070@example.com,775-555-1070,2023-10-17,Google,Active
+1071,Nicole,Anderson,customer1071@example.com,775-555-1071,2024-12-24,Walk-in,Active
+1072,Ashley,Perez,customer1072@example.com,775-555-1072,2025-10-27,Friend/Family,Active
+1073,Ashley,Wilson,customer1073@example.com,775-555-1073,2026-04-15,Walk-in,Inactive
+1074,James,Perez,customer1074@example.com,775-555-1074,2024-02-12,Friend/Family,Active
+1075,David,Perez,customer1075@example.com,775-555-1075,2025-09-20,Walk-in,Active
+1076,Chris,Wilson,customer1076@example.com,775-555-1076,2025-07-13,Existing Customer,Active
+1077,Casey,Brown,customer1077@example.com,775-555-1077,2024-11-07,Friend/Family,Inactive
+1078,Casey,Smith,customer1078@example.com,775-555-1078,2025-09-22,Walk-in,Active
+1079,Megan,Lee,customer1079@example.com,775-555-1079,2024-06-02,Google,Active
+1080,Amanda,Johnson,customer1080@example.com,775-555-1080,2025-10-13,Existing Customer,Active
+1081,Chloe,Martin,customer1081@example.com,775-555-1081,2024-02-01,Walk-in,Active
+1082,Sophia,Jones,customer1082@example.com,775-555-1082,2024-04-27,Google,Active
+1083,David,Johnson,customer1083@example.com,775-555-1083,2025-10-26,Walk-in,Active
+1084,Olivia,Jones,customer1084@example.com,775-555-1084,2024-05-03,Google,Active
+1085,Sophia,Perez,customer1085@example.com,775-555-1085,2024-09-05,Friend/Family,Inactive
+1086,Isabella,Davis,customer1086@example.com,775-555-1086,2024-12-09,Walk-in,Active
+1087,Megan,Perez,customer1087@example.com,775-555-1087,2024-01-31,Walk-in,Active
+1088,Lauren,Anderson,customer1088@example.com,775-555-1088,2024-08-25,Google,Active
+1089,Emily,Martinez,customer1089@example.com,775-555-1089,2024-07-12,Existing Customer,Active
+1090,Alex,Moore,customer1090@example.com,775-555-1090,2024-05-25,Google,Inactive
+1091,Stephanie,Miller,customer1091@example.com,775-555-1091,2025-09-04,Walk-in,Active
+1092,Ashley,Brown,customer1092@example.com,775-555-1092,2023-11-20,Walk-in,Active
+1093,Amanda,Martinez,customer1093@example.com,775-555-1093,2023-08-29,Google,Active
+1094,Rachel,Moore,customer1094@example.com,775-555-1094,2026-03-22,Walk-in,Active
+1095,Mia,Miller,customer1095@example.com,775-555-1095,2024-09-21,Friend/Family,Active
+1096,Mia,Jackson,customer1096@example.com,775-555-1096,2024-05-16,Friend/Family,Active
+1097,Sophia,Perez,customer1097@example.com,775-555-1097,2023-10-29,Walk-in,Active
+1098,Michelle,Thompson,customer1098@example.com,775-555-1098,2025-02-06,Walk-in,Active
+1099,Emily,Williams,customer1099@example.com,775-555-1099,2025-10-04,Friend/Family,Active
+1100,Casey,Anderson,customer1100@example.com,775-555-1100,2024-03-08,Walk-in,Inactive
+1101,Daniel,Thomas,customer1101@example.com,775-555-1101,2024-11-16,Existing Customer,Active
+1102,James,Brown,customer1102@example.com,775-555-1102,2025-05-08,Google,Active
+1103,Ashley,Garcia,customer1103@example.com,775-555-1103,2024-09-11,Friend/Family,Active
+1104,Casey,Smith,customer1104@example.com,775-555-1104,2023-10-21,Walk-in,Active
+1105,Megan,Jackson,customer1105@example.com,775-555-1105,2025-10-14,Friend/Family,Active
+1106,Michael,Anderson,customer1106@example.com,775-555-1106,2025-07-28,Friend/Family,Active
+1107,Isabella,Rodriguez,customer1107@example.com,775-555-1107,2023-12-05,Friend/Family,Inactive
+1108,Morgan,Smith,customer1108@example.com,775-555-1108,2025-02-24,Walk-in,Active
+1109,Sophia,Jones,customer1109@example.com,775-555-1109,2024-01-27,Friend/Family,Active
+1110,Michael,Thompson,customer1110@example.com,775-555-1110,2024-11-08,Google,Active
+1111,Olivia,Martinez,customer1111@example.com,775-555-1111,2025-06-05,Google,Active
+1112,Daniel,Jones,customer1112@example.com,775-555-1112,2024-09-18,Existing Customer,Active
+1113,James,Martin,customer1113@example.com,775-555-1113,2024-05-03,Google,Inactive
+1114,Chris,Jones,customer1114@example.com,775-555-1114,2024-06-19,Google,Active
+1115,David,Brown,customer1115@example.com,775-555-1115,2024-08-12,Google,Inactive
+1116,David,Smith,customer1116@example.com,775-555-1116,2025-05-14,Existing Customer,Active
+1117,Olivia,Martinez,customer1117@example.com,775-555-1117,2026-01-24,Friend/Family,Inactive
+1118,Daniel,Rodriguez,customer1118@example.com,775-555-1118,2024-06-07,Instagram,Active
+1119,Jennifer,Smith,customer1119@example.com,775-555-1119,2025-01-28,Friend/Family,Active
+1120,Grace,Davis,customer1120@example.com,775-555-1120,2024-11-15,Friend/Family,Active
+1121,James,Jackson,customer1121@example.com,775-555-1121,2024-05-01,Friend/Family,Active
+1122,James,Anderson,customer1122@example.com,775-555-1122,2024-08-11,Existing Customer,Active
+1123,Amanda,Garcia,customer1123@example.com,775-555-1123,2024-08-30,Walk-in,Active
+1124,Emily,Rodriguez,customer1124@example.com,775-555-1124,2025-11-23,Walk-in,Active
+1125,Michelle,Miller,customer1125@example.com,775-555-1125,2023-12-14,Walk-in,Inactive
+1126,Emma,Thompson,customer1126@example.com,775-555-1126,2026-04-30,Friend/Family,Inactive
+1127,Morgan,Davis,customer1127@example.com,775-555-1127,2025-12-23,Google,Active
+1128,David,Thomas,customer1128@example.com,775-555-1128,2025-05-02,Google,Inactive
+1129,Chloe,Thompson,customer1129@example.com,775-555-1129,2023-10-18,Friend/Family,Active
+1130,Jordan,Johnson,customer1130@example.com,775-555-1130,2024-12-16,Friend/Family,Active
+1131,David,Johnson,customer1131@example.com,775-555-1131,2025-10-02,Friend/Family,Active
+1132,Jessica,Miller,customer1132@example.com,775-555-1132,2025-03-19,Google,Inactive
+1133,Chris,Martinez,customer1133@example.com,775-555-1133,2026-03-02,Walk-in,Active
+1134,Casey,Johnson,customer1134@example.com,775-555-1134,2026-06-24,Existing Customer,Active
+1135,Daniel,Moore,customer1135@example.com,775-555-1135,2024-02-02,Friend/Family,Active
+1136,Chris,Perez,customer1136@example.com,775-555-1136,2024-05-04,Google,Active
+1137,Emily,Garcia,customer1137@example.com,775-555-1137,2026-02-15,Friend/Family,Active
+1138,Michelle,Moore,customer1138@example.com,775-555-1138,2024-02-01,Walk-in,Active
+1139,Casey,Garcia,customer1139@example.com,775-555-1139,2024-04-10,Walk-in,Active
+1140,Daniel,Anderson,customer1140@example.com,775-555-1140,2024-01-22,Friend/Family,Active
+1141,Alex,Martin,customer1141@example.com,775-555-1141,2024-06-23,Google,Active
+1142,Chris,Garcia,customer1142@example.com,775-555-1142,2025-06-17,Friend/Family,Active
+1143,Amanda,Garcia,customer1143@example.com,775-555-1143,2024-05-23,Walk-in,Active
+1144,Olivia,Martinez,customer1144@example.com,775-555-1144,2025-04-25,Friend/Family,Inactive
+1145,Rachel,Garcia,customer1145@example.com,775-555-1145,2024-03-28,Existing Customer,Inactive
+1146,Emily,Thompson,customer1146@example.com,775-555-1146,2024-12-31,Walk-in,Active
+1147,Ava,Lee,customer1147@example.com,775-555-1147,2023-08-12,Friend/Family,Active
+1148,Michelle,Perez,customer1148@example.com,775-555-1148,2026-04-01,Google,Active
+1149,Grace,Thompson,customer1149@example.com,775-555-1149,2023-08-14,Walk-in,Active
+1150,Grace,Lee,customer1150@example.com,775-555-1150,2024-09-29,Walk-in,Active
+1151,Daniel,Anderson,customer1151@example.com,775-555-1151,2023-10-15,Walk-in,Active
+1152,Chloe,Thompson,customer1152@example.com,775-555-1152,2025-04-03,Google,Active
+1153,Sarah,Taylor,customer1153@example.com,775-555-1153,2024-07-31,Walk-in,Active
+1154,Michael,Thompson,customer1154@example.com,775-555-1154,2024-07-29,Existing Customer,Active
+1155,Lauren,Johnson,customer1155@example.com,775-555-1155,2024-02-07,Instagram,Active
+1156,Morgan,Thomas,customer1156@example.com,775-555-1156,2023-12-17,Instagram,Inactive
+1157,Ashley,Martinez,customer1157@example.com,775-555-1157,2026-03-22,Walk-in,Active
+1158,Nicole,Wilson,customer1158@example.com,775-555-1158,2025-11-25,Friend/Family,Active
+1159,Grace,Johnson,customer1159@example.com,775-555-1159,2024-03-11,Friend/Family,Inactive
+1160,Isabella,Williams,customer1160@example.com,775-555-1160,2026-04-17,Friend/Family,Active
+1161,Alex,Martinez,customer1161@example.com,775-555-1161,2025-12-22,Friend/Family,Active
+1162,Isabella,Perez,customer1162@example.com,775-555-1162,2025-07-25,Existing Customer,Active
+1163,Ava,Martin,customer1163@example.com,775-555-1163,2026-05-16,Google,Active
+1164,Grace,Davis,customer1164@example.com,775-555-1164,2025-03-17,Existing Customer,Active
+1165,Emily,Moore,customer1165@example.com,775-555-1165,2024-03-29,Friend/Family,Active
+1166,Grace,Taylor,customer1166@example.com,775-555-1166,2025-11-25,Walk-in,Active
+1167,Alex,Miller,customer1167@example.com,775-555-1167,2023-08-24,Friend/Family,Active
+1168,Nicole,Williams,customer1168@example.com,775-555-1168,2025-04-22,Google,Active
+1169,Chris,Smith,customer1169@example.com,775-555-1169,2024-03-21,Friend/Family,Active
+1170,David,Perez,customer1170@example.com,775-555-1170,2023-09-29,Instagram,Active
+1171,Jordan,Wilson,customer1171@example.com,775-555-1171,2026-04-08,Existing Customer,Active
+1172,Daniel,Jones,customer1172@example.com,775-555-1172,2026-04-13,Walk-in,Active
+1173,Taylor,Lee,customer1173@example.com,775-555-1173,2025-06-17,Google,Active
+1174,Casey,Johnson,customer1174@example.com,775-555-1174,2026-07-03,Walk-in,Active
+1175,Megan,Lee,customer1175@example.com,775-555-1175,2023-09-08,Walk-in,Active
+1176,Alex,Anderson,customer1176@example.com,775-555-1176,2023-12-14,Existing Customer,Active
+1177,Emily,Wilson,customer1177@example.com,775-555-1177,2025-09-07,Friend/Family,Inactive
+1178,Chloe,Thompson,customer1178@example.com,775-555-1178,2025-10-06,Walk-in,Active
+1179,Alex,Martinez,customer1179@example.com,775-555-1179,2025-05-06,Friend/Family,Active
+1180,Ashley,Jackson,customer1180@example.com,775-555-1180,2024-11-29,Google,Inactive
+1181,Rachel,Miller,customer1181@example.com,775-555-1181,2025-04-11,Walk-in,Active
+1182,Jessica,Miller,customer1182@example.com,775-555-1182,2024-02-06,Google,Active
+1183,Ava,Martin,customer1183@example.com,775-555-1183,2024-06-11,Walk-in,Inactive
+1184,David,Martin,customer1184@example.com,775-555-1184,2025-04-27,Instagram,Active
+1185,Taylor,Brown,customer1185@example.com,775-555-1185,2026-06-23,Friend/Family,Active
+1186,David,Johnson,customer1186@example.com,775-555-1186,2026-02-26,Google,Inactive
+1187,Sarah,Smith,customer1187@example.com,775-555-1187,2025-04-28,Existing Customer,Active
+1188,Grace,Williams,customer1188@example.com,775-555-1188,2025-06-13,Google,Active
+1189,Isabella,Martinez,customer1189@example.com,775-555-1189,2023-09-16,Friend/Family,Active
+1190,Morgan,Miller,customer1190@example.com,775-555-1190,2025-05-19,Walk-in,Active
+1191,Mia,Wilson,customer1191@example.com,775-555-1191,2026-01-20,Friend/Family,Active
+1192,Jennifer,Rodriguez,customer1192@example.com,775-555-1192,2024-03-22,Walk-in,Active
+1193,Isabella,Brown,customer1193@example.com,775-555-1193,2024-09-27,Friend/Family,Active
+1194,Nicole,Jones,customer1194@example.com,775-555-1194,2025-03-03,Friend/Family,Active
+1195,Rachel,Thompson,customer1195@example.com,775-555-1195,2025-06-24,Friend/Family,Active
+1196,Emily,Jackson,customer1196@example.com,775-555-1196,2023-11-12,Walk-in,Active
+1197,Olivia,Thomas,customer1197@example.com,775-555-1197,2024-08-01,Friend/Family,Inactive
+1198,Daniel,Moore,customer1198@example.com,775-555-1198,2025-07-29,Google,Active
+1199,James,Lee,customer1199@example.com,775-555-1199,2024-01-08,Existing Customer,Active
+1200,Emma,Perez,customer1200@example.com,775-555-1200,2024-04-26,Walk-in,Active
+1201,James,Moore,customer1201@example.com,775-555-1201,2024-02-16,Google,Active
+1202,James,Moore,customer1202@example.com,775-555-1202,2026-03-21,Walk-in,Active
+1203,Taylor,Thompson,customer1203@example.com,775-555-1203,2025-01-10,Existing Customer,Active
+1204,James,Wilson,customer1204@example.com,775-555-1204,2025-05-27,Google,Active
+1205,Ava,Brown,customer1205@example.com,775-555-1205,2025-07-20,Google,Inactive
+1206,Rachel,Anderson,customer1206@example.com,775-555-1206,2024-04-17,Friend/Family,Active
+1207,James,Brown,customer1207@example.com,775-555-1207,2025-05-29,Friend/Family,Active
+1208,Rachel,Lee,customer1208@example.com,775-555-1208,2026-03-02,Google,Active
+1209,Grace,Davis,customer1209@example.com,775-555-1209,2024-06-21,Existing Customer,Active
+1210,Megan,Miller,customer1210@example.com,775-555-1210,2025-12-30,Instagram,Active
+1211,Alex,Wilson,customer1211@example.com,775-555-1211,2024-11-26,Walk-in,Active
+1212,David,Perez,customer1212@example.com,775-555-1212,2026-04-23,Walk-in,Active
+1213,Megan,Lee,customer1213@example.com,775-555-1213,2024-02-16,Instagram,Active
+1214,Sophia,Williams,customer1214@example.com,775-555-1214,2024-03-10,Friend/Family,Active
+1215,Jordan,Thomas,customer1215@example.com,775-555-1215,2025-06-01,Google,Active
+1216,Ashley,Miller,customer1216@example.com,775-555-1216,2024-05-11,Existing Customer,Inactive
+1217,Daniel,Smith,customer1217@example.com,775-555-1217,2024-05-27,Friend/Family,Active
+1218,Rachel,Thomas,customer1218@example.com,775-555-1218,2026-02-01,Walk-in,Active
+1219,Megan,Martinez,customer1219@example.com,775-555-1219,2025-04-15,Existing Customer,Inactive
+1220,James,Anderson,customer1220@example.com,775-555-1220,2024-01-30,Friend/Family,Active
+1221,Isabella,Thomas,customer1221@example.com,775-555-1221,2024-04-18,Existing Customer,Active
+1222,Morgan,Lee,customer1222@example.com,775-555-1222,2023-11-17,Walk-in,Active
+1223,Lauren,Brown,customer1223@example.com,775-555-1223,2025-02-28,Existing Customer,Active
+1224,James,Perez,customer1224@example.com,775-555-1224,2025-10-16,Friend/Family,Active
+1225,Sophia,Thomas,customer1225@example.com,775-555-1225,2026-01-08,Friend/Family,Active
+1226,Ava,Jones,customer1226@example.com,775-555-1226,2024-08-20,Friend/Family,Inactive
+1227,Lauren,Taylor,customer1227@example.com,775-555-1227,2024-06-11,Walk-in,Inactive
+1228,Amanda,Jones,customer1228@example.com,775-555-1228,2023-08-24,Walk-in,Active
+1229,David,Jackson,customer1229@example.com,775-555-1229,2026-01-11,Existing Customer,Active
+1230,Amanda,Taylor,customer1230@example.com,775-555-1230,2026-02-19,Existing Customer,Active
+1231,Casey,Taylor,customer1231@example.com,775-555-1231,2024-08-03,Google,Active
+1232,Jordan,Moore,customer1232@example.com,775-555-1232,2025-09-26,Google,Active
+1233,Grace,Smith,customer1233@example.com,775-555-1233,2026-05-17,Instagram,Active
+1234,Isabella,Rodriguez,customer1234@example.com,775-555-1234,2025-11-19,Existing Customer,Active
+1235,Jessica,Johnson,customer1235@example.com,775-555-1235,2026-04-16,Friend/Family,Active
+1236,Ava,Williams,customer1236@example.com,775-555-1236,2024-05-17,Friend/Family,Active
+1237,Taylor,Rodriguez,customer1237@example.com,775-555-1237,2026-03-10,Friend/Family,Active
+1238,Grace,Williams,customer1238@example.com,775-555-1238,2024-12-15,Google,Active
+1239,Michael,Williams,customer1239@example.com,775-555-1239,2025-05-01,Friend/Family,Inactive
+1240,Mia,Smith,customer1240@example.com,775-555-1240,2026-03-18,Google,Inactive
+1241,Chloe,Wilson,customer1241@example.com,775-555-1241,2025-12-10,Google,Inactive
+1242,Rachel,Martinez,customer1242@example.com,775-555-1242,2024-07-09,Walk-in,Inactive
+1243,David,Martinez,customer1243@example.com,775-555-1243,2025-01-15,Walk-in,Active
+1244,Jennifer,Perez,customer1244@example.com,775-555-1244,2023-11-14,Friend/Family,Active
+1245,David,Thompson,customer1245@example.com,775-555-1245,2023-09-25,Walk-in,Active
+1246,Isabella,Williams,customer1246@example.com,775-555-1246,2025-02-20,Walk-in,Active
+1247,Nicole,Rodriguez,customer1247@example.com,775-555-1247,2023-08-30,Friend/Family,Active
+1248,Casey,Perez,customer1248@example.com,775-555-1248,2024-06-05,Friend/Family,Active
+1249,Jennifer,Rodriguez,customer1249@example.com,775-555-1249,2024-11-26,Google,Active
+1250,Taylor,Johnson,customer1250@example.com,775-555-1250,2025-07-03,Existing Customer,Inactive
